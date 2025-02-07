@@ -1,2 +1,2 @@
 # Master-s-Thesis
-Analyzing open data API provided by local governments through theirs local websites or dane.gov.pl. I put focus on availability, validation, additional sources like documentations, openness of data and commercial useability. Technologies: python pandas, requests, sqlalchemy, Microsoft SQL, Postman.
+Analyzing open data APIs provided by local governments through their local websites or dane.gov.pl.I focus on availability, validation, additional sources like documentation, openness of data, and commercial usability. Technologies: Python, pandas, requests, SQLAlchemy, Microsoft SQL, Postman.
