@@ -15,6 +15,7 @@ def main():
     raw_data2= fetch_lokalizacja_pojazdow_komunikacji()
     # 2. Przetwórz dane
     df = process_cennik_wrm(raw_data)
+    df= df[['_id','Column1','Column2','Column3']]
     df_lokalizacja_pojazdow=process_lokalizacja_pojazdow_wroc(raw_data2)
     df_lokalizacja_pojazdow=df_lokalizacja_pojazdow[["_id","Nr_Boczny","Nr_Rej","Brygada","Nazwa_Linii","Ostatnia_Pozycja_Szerokosc","Ostatnia_Pozycja_Dlugosc","Data_Aktualizacji"]]
     # 3. Zapisz do SQL
