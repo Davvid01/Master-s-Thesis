@@ -1,0 +1,1978 @@
+_id,Czas_Rejestracji,Liczba_Wolnych_Miejsc,Liczba_Poj_Wjezdzajacych,Liczba_Poj_Wyjezdzajacych,Nazwa
+1,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+2,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+3,2025-01-14 05:19:49.887000,45,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+4,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+5,2025-01-14 05:16:52.213000,11,1,0,PR11 - ul. Ślężna-Kamienna
+6,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+7,2025-01-14 05:04:17.720000,84,0,0,PR06 - ul. Kosmonautów-Boguszowska
+8,2025-01-14 04:50:25.170000,159,0,0,PR08 - ul. Opolska-Głubczycka
+9,2025-01-14 06:10:57.870000,34,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+10,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+11,2025-01-14 06:14:25.623000,97,4,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+12,2025-01-14 06:04:45.967000,55,0,0,PR03A - Grabiszyn południe
+13,2025-01-14 06:13:39.790000,43,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+14,2025-01-14 06:04:23.777000,77,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+15,2025-01-14 05:52:54.303000,1,0,0,PR11 - ul. Ślężna-Kamienna
+16,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+17,2025-01-14 06:07:40.100000,72,0,0,PR06 - ul. Kosmonautów-Boguszowska
+18,2025-01-14 06:10:20.090000,157,1,0,PR08 - ul. Opolska-Głubczycka
+19,2025-01-14 06:10:28.890000,-291,1,0,PR15 - ul. Kamiennogórska
+20,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+21,2025-01-14 07:14:57.230000,47,2,0,PR06 - ul. Kosmonautów-Boguszowska
+22,2025-01-14 07:13:40.473000,147,2,0,PR08 - ul. Opolska-Głubczycka
+23,2025-01-14 06:41:55.313000,38,0,0,PR05 - ul. Bardzka-Świeradowska
+24,2025-01-14 07:10:54.423000,-293,0,1,PR15 - ul. Kamiennogórska
+25,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+26,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+54,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+27,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+28,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+29,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+30,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+31,2025-01-14 00:18:33.920000,46,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+32,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+33,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+34,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+35,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+36,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+37,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+38,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+39,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+40,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+41,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+42,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+43,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+44,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+45,2025-01-14 00:06:02.987000,22,0,1,PR11 - ul. Ślężna-Kamienna
+46,2025-01-14 00:08:32.137000,11,0,1,PR09 - ul. Opolska-Karwińska
+47,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+48,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+49,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+50,2025-01-14 01:20:06.407000,41,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+51,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+52,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+53,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+55,2025-01-14 01:20:06.407000,41,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+56,2025-01-14 00:10:36.647000,23,0,1,PR11 - ul. Ślężna-Kamienna
+57,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+58,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+59,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+60,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+61,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+62,2025-01-14 01:20:06.407000,41,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+63,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+64,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+65,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+66,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+67,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+68,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+69,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+70,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+71,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+72,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+73,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+74,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+75,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+76,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+77,2025-01-14 03:54:24.863000,21,1,0,PR11 - ul. Ślężna-Kamienna
+78,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+79,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+80,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+81,2025-01-14 04:05:49.507000,20,1,0,PR11 - ul. Ślężna-Kamienna
+82,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+83,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+84,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+85,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+86,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+87,2025-01-14 00:40:31.120000,23,0,1,PR17 -  ul. Osobowicka
+88,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+89,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+90,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+91,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+92,2025-01-14 01:19:34.377000,45,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+93,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+94,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+95,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+96,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+97,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+98,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+99,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+100,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+101,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+102,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+103,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+104,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+105,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+106,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+107,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+108,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+109,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+110,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+111,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+112,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+113,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+114,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+115,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+116,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+117,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+118,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+119,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+120,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+121,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+122,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+123,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+124,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+125,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+126,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+127,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+128,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+129,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+130,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+131,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+132,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+133,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+134,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+135,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+136,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+137,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+138,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+139,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+140,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+141,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+142,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+143,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+144,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+145,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+146,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+147,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+148,2025-01-14 03:32:27.587000,22,0,0,PR11 - ul. Ślężna-Kamienna
+149,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+150,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+151,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+152,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+153,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+154,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+155,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+156,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+157,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+158,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+159,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+160,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+161,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+162,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+163,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+164,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+165,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+166,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+167,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+168,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+169,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+170,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+171,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+172,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+173,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+174,2025-01-14 03:32:27.587000,22,0,0,PR11 - ul. Ślężna-Kamienna
+175,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+176,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+177,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+178,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+179,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+180,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+181,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+182,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+183,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+184,2025-01-14 02:23:17.753000,35,0,1,PR03B - Grabiszyn północ
+185,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+186,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+187,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+188,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+189,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+190,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+191,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+192,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+193,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+194,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+195,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+196,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+197,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+198,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+199,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+200,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+201,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+202,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+203,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+204,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+205,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+206,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+207,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+208,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+209,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+210,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+211,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+212,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+213,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+214,2025-01-14 03:54:24.863000,21,0,0,PR11 - ul. Ślężna-Kamienna
+215,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+216,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+217,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+218,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+219,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+220,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+221,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+222,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+223,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+224,2025-01-14 03:32:27.587000,22,1,0,PR11 - ul. Ślężna-Kamienna
+225,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+226,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+227,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+228,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+229,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+230,2025-01-14 03:32:27.587000,22,0,0,PR11 - ul. Ślężna-Kamienna
+231,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+232,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+233,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+234,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+235,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+236,2025-01-14 03:54:24.863000,21,0,0,PR11 - ul. Ślężna-Kamienna
+237,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+238,2025-01-14 07:23:07.407000,37,4,0,PR06 - ul. Kosmonautów-Boguszowska
+239,2025-01-14 07:22:03.530000,147,0,1,PR08 - ul. Opolska-Głubczycka
+240,2025-01-14 07:23:24.077000,37,1,0,PR05 - ul. Bardzka-Świeradowska
+241,2025-01-14 07:21:42.273000,-293,0,1,PR15 - ul. Kamiennogórska
+242,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+243,2025-01-14 08:27:40.377000,102,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+244,2025-01-14 09:52:07.023000,51,0,1,PR12 - Klecina - pętla MPK
+245,2025-01-14 09:48:23.737000,-48,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+246,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+247,2025-01-14 09:54:31.540000,107,1,3,PR01B - Psie Pole - Stacja PKP parking nr 3
+248,2025-01-14 09:50:31.540000,24,1,0,PR03A - Grabiszyn południe
+249,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+250,2025-01-14 09:38:50.627000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+251,2025-01-14 09:50:44.063000,-10,1,0,PR11 - ul. Ślężna-Kamienna
+252,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+253,2025-01-14 09:21:26.813000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+254,2025-01-14 09:54:49.207000,133,1,0,PR08 - ul. Opolska-Głubczycka
+255,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+256,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+257,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+258,2025-01-14 11:08:52.553000,19,1,0,PR03A - Grabiszyn południe
+259,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+260,2025-01-14 11:00:18.977000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+261,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+262,2025-01-14 12:14:43.610000,107,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+263,2025-01-14 12:11:24.200000,16,1,0,PR03A - Grabiszyn południe
+264,2025-01-14 12:09:38.237000,41,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+265,2025-01-14 11:58:26.290000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+266,2025-01-14 12:14:21.387000,-12,1,0,PR11 - ul. Ślężna-Kamienna
+267,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+268,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+269,2025-01-14 12:11:03.847000,125,1,0,PR08 - ul. Opolska-Głubczycka
+270,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+271,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+272,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+273,2025-01-14 07:38:37.997000,-38,2,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+274,2025-01-14 07:25:39.043000,29,0,0,PR03B - Grabiszyn północ
+275,2025-01-14 07:39:57.160000,98,2,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+276,2025-01-14 07:35:20.797000,46,1,0,PR03A - Grabiszyn południe
+277,2025-01-14 07:13:08.607000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+278,2025-01-14 07:38:44.790000,56,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+279,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+280,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+281,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+282,2025-01-14 08:18:50.710000,-46,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+283,2025-01-14 07:57:32.877000,27,0,0,PR03B - Grabiszyn północ
+284,2025-01-14 08:19:59.913000,102,3,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+285,2025-01-14 08:16:43.100000,37,2,0,PR03A - Grabiszyn południe
+286,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+287,2025-01-14 08:19:30.277000,44,2,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+288,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+289,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+290,2025-01-14 08:12:33.707000,29,0,0,PR06 - ul. Kosmonautów-Boguszowska
+291,2025-01-14 08:19:49.067000,143,1,0,PR08 - ul. Opolska-Głubczycka
+292,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+293,2025-01-14 08:15:00.933000,-293,0,0,PR15 - ul. Kamiennogórska
+294,2025-01-14 07:45:04.107000,22,0,0,PR17 -  ul. Osobowicka
+295,2025-01-14 12:29:23.287000,45,1,0,PR12 - Klecina - pętla MPK
+296,2025-01-14 12:29:20.867000,-46,1,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+297,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+298,2025-01-14 12:24:14.927000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+299,2025-01-14 12:15:03.197000,17,0,0,PR03A - Grabiszyn południe
+300,2025-01-14 12:22:45.137000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+301,2025-01-14 12:17:57.853000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+302,2025-01-14 12:20:50.847000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+303,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+304,2025-01-14 12:29:09.853000,19,1,0,PR06 - ul. Kosmonautów-Boguszowska
+305,2025-01-14 12:24:53.327000,122,0,0,PR08 - ul. Opolska-Głubczycka
+306,2025-01-14 12:29:13.950000,33,1,0,PR05 - ul. Bardzka-Świeradowska
+307,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+308,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+309,2025-01-14 13:17:26.510000,46,1,0,PR12 - Klecina - pętla MPK
+310,2025-01-14 13:15:18.130000,-43,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+311,2025-01-14 13:16:23.340000,25,1,0,PR03B - Grabiszyn północ
+312,2025-01-14 13:18:17.023000,109,1,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+313,2025-01-14 13:09:38.113000,15,0,0,PR03A - Grabiszyn południe
+314,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+315,2025-01-14 13:18:21.463000,39,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+316,2025-01-14 13:14:56.123000,-7,0,0,PR11 - ul. Ślężna-Kamienna
+317,2025-01-14 13:12:19.240000,1694498843,0,0,PR10 - ul. Grabiszyńska (Oporów)
+318,2025-01-14 13:05:21.233000,1,0,0,PR09 - ul. Opolska-Karwińska
+319,2025-01-14 13:19:02.480000,23,0,1,PR06 - ul. Kosmonautów-Boguszowska
+320,2025-01-14 13:19:52.217000,129,0,1,PR08 - ul. Opolska-Głubczycka
+321,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+322,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+323,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+324,2025-01-14 13:44:32.933000,46,0,0,PR12 - Klecina - pętla MPK
+325,2025-01-14 13:53:22.587000,-45,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+326,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+327,2025-01-14 13:50:18.037000,107,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+328,2025-01-14 13:54:01.307000,16,0,1,PR03A - Grabiszyn południe
+329,2025-01-14 13:54:37.850000,41,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+330,2025-01-14 13:48:39.320000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+331,2025-01-14 13:53:00.110000,-9,0,1,PR11 - ul. Ślężna-Kamienna
+332,2025-01-14 13:54:52.640000,1694498841,1,0,PR10 - ul. Grabiszyńska (Oporów)
+333,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+334,2025-01-14 13:51:18.177000,26,0,1,PR06 - ul. Kosmonautów-Boguszowska
+335,2025-01-14 13:51:35.903000,131,0,1,PR08 - ul. Opolska-Głubczycka
+336,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+337,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+338,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+339,2025-01-14 14:28:41.687000,46,0,1,PR12 - Klecina - pętla MPK
+340,2025-01-14 14:29:13.237000,-31,1,3,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+341,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+342,2025-01-14 14:08:26.510000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+343,2025-01-14 14:19:21.963000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+344,2025-01-14 14:47:34.727000,1,1,0,PR11 - ul. Ślężna-Kamienna
+345,2025-01-14 14:47:45.547000,1694498847,1,0,PR10 - ul. Grabiszyńska (Oporów)
+346,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+347,2025-01-14 14:47:15.320000,24,1,0,PR06 - ul. Kosmonautów-Boguszowska
+348,2025-01-14 14:47:00.117000,132,0,1,PR08 - ul. Opolska-Głubczycka
+349,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+350,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+351,2025-01-14 14:48:05.483000,20,1,0,PR17 -  ul. Osobowicka
+352,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+353,2025-01-14 07:33:53.010000,35,0,0,PR06 - ul. Kosmonautów-Boguszowska
+354,2025-01-14 07:35:51.900000,146,1,0,PR08 - ul. Opolska-Głubczycka
+355,2025-01-14 07:36:48.823000,36,1,0,PR05 - ul. Bardzka-Świeradowska
+356,2025-01-14 07:49:06.393000,-44,4,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+357,2025-01-14 07:41:59.177000,28,0,0,PR03B - Grabiszyn północ
+358,2025-01-14 07:49:43.620000,97,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+359,2025-01-14 07:49:28.177000,43,1,0,PR03A - Grabiszyn południe
+360,2025-01-14 07:13:08.607000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+361,2025-01-14 07:44:00.050000,55,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+362,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+363,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+364,2025-01-14 07:33:53.010000,35,0,0,PR06 - ul. Kosmonautów-Boguszowska
+365,2025-01-14 07:49:28.730000,146,0,1,PR08 - ul. Opolska-Głubczycka
+366,2025-01-14 07:36:48.823000,36,0,0,PR05 - ul. Bardzka-Świeradowska
+367,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+368,2025-01-14 07:45:04.107000,22,1,0,PR17 -  ul. Osobowicka
+369,2025-01-14 07:57:35.567000,61,0,0,PR12 - Klecina - pętla MPK
+370,2025-01-14 08:03:59.087000,-48,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+371,2025-01-14 07:57:32.877000,27,0,0,PR03B - Grabiszyn północ
+372,2025-01-14 08:03:55.417000,104,2,4,PR01B - Psie Pole - Stacja PKP parking nr 3
+373,2025-01-14 08:04:22.080000,40,1,0,PR03A - Grabiszyn południe
+374,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+375,2025-01-14 08:04:25.313000,50,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+376,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+377,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+378,2025-01-14 08:04:23.413000,30,2,0,PR06 - ul. Kosmonautów-Boguszowska
+379,2025-01-14 08:04:55.810000,146,0,1,PR08 - ul. Opolska-Głubczycka
+407,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+380,2025-01-14 07:36:48.823000,36,0,0,PR05 - ul. Bardzka-Świeradowska
+381,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+382,2025-01-14 07:45:04.107000,22,0,0,PR17 -  ul. Osobowicka
+383,2025-01-14 08:33:07.333000,57,1,0,PR12 - Klecina - pętla MPK
+384,2025-01-14 08:22:54.060000,-47,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+385,2025-01-14 07:57:32.877000,27,0,0,PR03B - Grabiszyn północ
+386,2025-01-14 08:30:39.333000,34,2,0,PR03A - Grabiszyn południe
+387,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+388,2025-01-14 08:19:30.277000,44,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+389,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+390,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+391,2025-01-14 08:28:50.227000,27,0,0,PR06 - ul. Kosmonautów-Boguszowska
+392,2025-01-14 08:32:58.003000,140,0,1,PR08 - ul. Opolska-Głubczycka
+393,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+394,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+395,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+396,2025-01-14 08:48:03.150000,55,1,0,PR12 - Klecina - pętla MPK
+397,2025-01-14 08:48:38.407000,-47,1,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+398,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+399,2025-01-14 08:45:32.130000,105,0,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+400,2025-01-14 08:35:42.743000,32,0,0,PR03A - Grabiszyn południe
+401,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+402,2025-01-14 08:39:03.557000,42,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+403,2025-01-14 08:46:25.030000,-1,0,1,PR11 - ul. Ślężna-Kamienna
+404,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+405,2025-01-14 08:45:57.397000,25,1,0,PR06 - ul. Kosmonautów-Boguszowska
+406,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+408,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+409,2025-01-14 09:37:53.273000,50,0,0,PR12 - Klecina - pętla MPK
+410,2025-01-14 09:48:23.737000,-48,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+411,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+412,2025-01-14 09:46:56.647000,106,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+413,2025-01-14 09:49:12.230000,25,1,0,PR03A - Grabiszyn południe
+414,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+415,2025-01-14 09:38:50.627000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+416,2025-01-14 09:46:58.920000,-9,1,1,PR11 - ul. Ślężna-Kamienna
+417,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+418,2025-01-14 09:21:26.813000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+419,2025-01-14 09:49:30.857000,134,1,0,PR08 - ul. Opolska-Głubczycka
+420,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+421,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+422,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+423,2025-01-14 11:24:59.283000,-50,1,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+424,2025-01-14 11:20:07.913000,26,0,1,PR03B - Grabiszyn północ
+425,2025-01-14 11:22:20.023000,109,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+426,2025-01-14 11:18:59.217000,20,0,0,PR03A - Grabiszyn południe
+427,2025-01-14 11:24:34.757000,-13,2,1,PR11 - ul. Ślężna-Kamienna
+428,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+429,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+430,2025-01-14 11:22:11.713000,127,1,0,PR08 - ul. Opolska-Głubczycka
+431,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+432,2025-01-14 11:28:55.693000,45,0,1,PR12 - Klecina - pętla MPK
+433,2025-01-14 11:24:59.283000,-50,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+434,2025-01-14 11:20:07.913000,26,0,0,PR03B - Grabiszyn północ
+435,2025-01-14 11:27:26.200000,108,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+436,2025-01-14 11:18:59.217000,20,0,0,PR03A - Grabiszyn południe
+437,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+438,2025-01-14 11:15:54.833000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+439,2025-01-14 11:25:23.717000,-12,0,1,PR11 - ul. Ślężna-Kamienna
+440,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+441,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+442,2025-01-14 11:26:41.483000,126,1,0,PR08 - ul. Opolska-Głubczycka
+443,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+444,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+445,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+446,2025-01-14 07:28:35.163000,4,1,0,PR09 - ul. Opolska-Karwińska
+447,2025-01-14 07:28:20.580000,36,2,1,PR06 - ul. Kosmonautów-Boguszowska
+448,2025-01-14 07:28:04.360000,148,0,1,PR08 - ul. Opolska-Głubczycka
+449,2025-01-14 07:23:24.077000,37,0,0,PR05 - ul. Bardzka-Świeradowska
+450,2025-01-14 07:28:56.410000,-293,1,2,PR15 - ul. Kamiennogórska
+451,2025-01-14 07:47:33.883000,60,2,0,PR12 - Klecina - pętla MPK
+452,2025-01-14 08:36:44.443000,56,0,0,PR12 - Klecina - pętla MPK
+453,2025-01-14 08:41:16.617000,-48,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+454,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+455,2025-01-14 08:42:20.373000,103,0,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+456,2025-01-14 08:35:42.743000,32,0,0,PR03A - Grabiszyn południe
+457,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+458,2025-01-14 08:39:03.557000,42,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+459,2025-01-14 08:36:50.763000,-2,0,0,PR11 - ul. Ślężna-Kamienna
+460,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+461,2025-01-14 08:43:08.903000,26,1,0,PR06 - ul. Kosmonautów-Boguszowska
+462,2025-01-14 08:43:34.193000,139,1,0,PR08 - ul. Opolska-Głubczycka
+463,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+464,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+465,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+466,2025-01-14 08:48:21.643000,137,1,0,PR08 - ul. Opolska-Głubczycka
+467,2025-01-14 09:00:48.800000,54,0,0,PR12 - Klecina - pętla MPK
+468,2025-01-14 09:09:42.083000,-48,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+469,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+470,2025-01-14 09:08:22.430000,107,2,4,PR01B - Psie Pole - Stacja PKP parking nr 3
+471,2025-01-14 09:06:21.440000,28,1,0,PR03A - Grabiszyn południe
+472,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+473,2025-01-14 08:58:10.797000,41,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+474,2025-01-14 09:04:25.853000,-3,0,0,PR11 - ul. Ślężna-Kamienna
+475,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+476,2025-01-14 08:51:56.130000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+477,2025-01-14 09:07:05.520000,136,0,1,PR08 - ul. Opolska-Głubczycka
+478,2025-01-14 09:05:07.813000,34,1,0,PR05 - ul. Bardzka-Świeradowska
+479,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+480,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+481,2025-01-14 09:59:38.697000,22,1,0,PR06 - ul. Kosmonautów-Boguszowska
+482,2025-01-14 09:54:49.207000,133,0,0,PR08 - ul. Opolska-Głubczycka
+483,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+484,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+485,2025-01-14 09:58:01.300000,22,1,0,PR17 -  ul. Osobowicka
+486,2025-01-14 10:54:52.393000,-51,3,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+487,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+488,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+489,2025-01-14 10:51:44.107000,22,0,1,PR03A - Grabiszyn południe
+490,2025-01-14 10:50:55.173000,42,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+491,2025-01-14 10:39:28.490000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+492,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+493,2025-01-14 10:51:27.450000,21,1,0,PR06 - ul. Kosmonautów-Boguszowska
+494,2025-01-14 10:48:13.957000,128,0,0,PR08 - ul. Opolska-Głubczycka
+495,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+496,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+497,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+498,2025-01-14 11:09:57.157000,47,1,0,PR12 - Klecina - pętla MPK
+499,2025-01-14 11:09:21.207000,-52,3,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+500,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+501,2025-01-14 11:06:36.677000,109,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+502,2025-01-14 11:14:50.147000,46,1,1,PR12 - Klecina - pętla MPK
+503,2025-01-14 11:14:02.477000,-48,0,3,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+504,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+505,2025-01-14 11:13:38.237000,108,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+506,2025-01-14 11:08:52.553000,19,0,0,PR03A - Grabiszyn południe
+507,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+508,2025-01-14 11:00:18.977000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+509,2025-01-14 11:11:22.257000,-10,0,1,PR11 - ul. Ślężna-Kamienna
+510,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+511,2025-01-14 10:56:32.587000,20,0,0,PR06 - ul. Kosmonautów-Boguszowska
+512,2025-01-14 11:14:58.057000,126,2,0,PR08 - ul. Opolska-Głubczycka
+513,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+514,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+515,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+516,2025-01-14 11:16:14.650000,45,0,0,PR12 - Klecina - pętla MPK
+517,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+518,2025-01-14 11:15:54.833000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+519,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+520,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+521,2025-01-14 07:57:35.567000,61,0,0,PR12 - Klecina - pętla MPK
+522,2025-01-14 08:03:59.087000,-48,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+523,2025-01-14 07:57:32.877000,27,0,0,PR03B - Grabiszyn północ
+524,2025-01-14 08:03:55.417000,104,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+525,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+526,2025-01-14 08:09:10.740000,48,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+527,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+528,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+529,2025-01-14 08:04:23.413000,30,0,0,PR06 - ul. Kosmonautów-Boguszowska
+530,2025-01-14 08:06:09.693000,146,0,1,PR08 - ul. Opolska-Głubczycka
+531,2025-01-14 07:36:48.823000,36,0,0,PR05 - ul. Bardzka-Świeradowska
+532,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+533,2025-01-14 07:45:04.107000,22,0,0,PR17 -  ul. Osobowicka
+534,2025-01-14 08:53:01.257000,54,1,0,PR12 - Klecina - pętla MPK
+535,2025-01-14 08:48:38.407000,-47,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+536,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+537,2025-01-14 08:52:46.387000,107,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+538,2025-01-14 08:50:27.690000,31,1,0,PR03A - Grabiszyn południe
+539,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+540,2025-01-14 08:39:03.557000,42,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+541,2025-01-14 08:46:25.030000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+542,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+543,2025-01-14 08:51:56.130000,24,1,0,PR06 - ul. Kosmonautów-Boguszowska
+544,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+545,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+546,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+547,2025-01-14 08:58:10.797000,41,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+548,2025-01-14 09:37:53.273000,50,0,0,PR12 - Klecina - pętla MPK
+549,2025-01-14 09:38:53.383000,-47,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+550,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+551,2025-01-14 09:44:02.023000,107,1,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+552,2025-01-14 09:36:07.010000,27,0,0,PR03A - Grabiszyn południe
+553,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+554,2025-01-14 09:38:50.627000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+555,2025-01-14 09:41:01.793000,-9,1,0,PR11 - ul. Ślężna-Kamienna
+556,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+557,2025-01-14 09:21:26.813000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+558,2025-01-14 09:42:06.037000,135,1,0,PR08 - ul. Opolska-Głubczycka
+559,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+560,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+561,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+562,2025-01-14 10:01:52.507000,50,0,0,PR12 - Klecina - pętla MPK
+563,2025-01-14 10:09:38.557000,-47,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+564,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+565,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+566,2025-01-14 10:08:07.903000,22,1,0,PR03A - Grabiszyn południe
+567,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+568,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+569,2025-01-14 10:01:48.733000,21,0,0,PR06 - ul. Kosmonautów-Boguszowska
+570,2025-01-14 10:09:26.217000,132,1,0,PR08 - ul. Opolska-Głubczycka
+571,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+572,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+573,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+574,2025-01-14 10:29:16.820000,49,1,0,PR12 - Klecina - pętla MPK
+575,2025-01-14 10:29:34.640000,-50,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+576,2025-01-14 10:25:41.350000,25,1,0,PR03B - Grabiszyn północ
+577,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+578,2025-01-14 10:28:42.940000,22,1,1,PR03A - Grabiszyn południe
+579,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+580,2025-01-14 10:26:16.437000,37,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+581,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+582,2025-01-14 10:27:40.287000,2,1,0,PR09 - ul. Opolska-Karwińska
+583,2025-01-14 10:28:41.537000,22,0,1,PR06 - ul. Kosmonautów-Boguszowska
+584,2025-01-14 10:29:00.200000,128,2,0,PR08 - ul. Opolska-Głubczycka
+585,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+586,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+587,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+588,2025-01-14 10:29:16.820000,49,0,0,PR12 - Klecina - pętla MPK
+589,2025-01-14 10:39:44.450000,-49,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+590,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+591,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+592,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+593,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+594,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+595,2025-01-14 10:28:41.537000,22,0,0,PR06 - ul. Kosmonautów-Boguszowska
+596,2025-01-14 10:39:58.590000,129,1,0,PR08 - ul. Opolska-Głubczycka
+597,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+598,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+599,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+600,2025-01-14 11:16:14.650000,45,1,0,PR12 - Klecina - pętla MPK
+601,2025-01-14 11:18:05.430000,-50,2,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+602,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+603,2025-01-14 11:13:38.237000,108,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+604,2025-01-14 11:18:59.217000,20,0,1,PR03A - Grabiszyn południe
+605,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+606,2025-01-14 11:15:54.833000,38,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+607,2025-01-14 11:15:09.387000,-11,1,0,PR11 - ul. Ślężna-Kamienna
+608,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+609,2025-01-14 11:18:04.640000,19,1,0,PR06 - ul. Kosmonautów-Boguszowska
+610,2025-01-14 11:19:26.777000,127,0,1,PR08 - ul. Opolska-Głubczycka
+611,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+612,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+613,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+614,2025-01-14 11:39:56.153000,46,0,1,PR12 - Klecina - pętla MPK
+615,2025-01-14 11:39:56.153000,46,0,0,PR12 - Klecina - pętla MPK
+616,2025-01-14 08:52:14.853000,136,1,0,PR08 - ul. Opolska-Głubczycka
+617,2025-01-14 10:34:55.173000,20,0,0,PR03A - Grabiszyn południe
+618,2025-01-14 10:39:28.490000,38,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+619,2025-01-14 11:42:36.170000,-50,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+620,2025-01-14 14:12:46.980000,-38,1,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+621,2025-01-14 13:54:01.307000,16,0,0,PR03A - Grabiszyn południe
+622,2025-01-14 14:14:46.697000,42,0,2,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+623,2025-01-14 14:11:37.923000,39,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+624,2025-01-14 14:14:09.180000,1,0,1,PR11 - ul. Ślężna-Kamienna
+625,2025-01-14 14:11:30.297000,1694498842,1,0,PR10 - ul. Grabiszyńska (Oporów)
+626,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+627,2025-01-14 14:14:14.627000,130,0,1,PR08 - ul. Opolska-Głubczycka
+628,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+629,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+630,2025-01-14 14:14:28.290000,22,0,1,PR17 -  ul. Osobowicka
+631,2025-01-14 14:17:03.047000,-34,0,3,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+632,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+633,2025-01-14 14:59:10.870000,-293,0,0,PR15 - ul. Kamiennogórska
+634,2025-01-14 07:23:15.423000,62,0,0,PR12 - Klecina - pętla MPK
+635,2025-01-14 07:43:53.223000,-39,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+636,2025-01-14 07:41:59.177000,28,1,0,PR03B - Grabiszyn północ
+637,2025-01-14 07:42:07.167000,97,2,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+638,2025-01-14 07:41:10.733000,44,2,0,PR03A - Grabiszyn południe
+639,2025-01-14 07:13:08.607000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+640,2025-01-14 07:44:00.050000,55,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+641,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+642,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+643,2025-01-14 07:33:53.010000,35,0,0,PR06 - ul. Kosmonautów-Boguszowska
+644,2025-01-14 07:35:51.900000,146,0,0,PR08 - ul. Opolska-Głubczycka
+645,2025-01-14 07:36:48.823000,36,0,0,PR05 - ul. Bardzka-Świeradowska
+646,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+647,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+648,2025-01-14 10:29:16.820000,49,0,0,PR12 - Klecina - pętla MPK
+649,2025-01-14 10:48:56.550000,-48,1,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+650,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+813,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+651,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+652,2025-01-14 10:42:17.883000,21,0,0,PR03A - Grabiszyn południe
+653,2025-01-14 10:45:51.007000,41,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+654,2025-01-14 10:39:28.490000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+655,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+656,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+657,2025-01-14 10:28:41.537000,22,0,0,PR06 - ul. Kosmonautów-Boguszowska
+658,2025-01-14 10:48:13.957000,128,1,1,PR08 - ul. Opolska-Głubczycka
+659,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+660,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+661,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+662,2025-01-14 10:58:45.497000,48,1,0,PR12 - Klecina - pętla MPK
+663,2025-01-14 10:54:52.393000,-51,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+664,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+665,2025-01-14 10:57:14.507000,108,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+666,2025-01-14 10:57:41.780000,21,1,0,PR03A - Grabiszyn południe
+667,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+668,2025-01-14 10:39:28.490000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+669,2025-01-14 10:59:22.140000,-11,1,0,PR11 - ul. Ślężna-Kamienna
+670,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+671,2025-01-14 10:56:32.587000,20,1,0,PR06 - ul. Kosmonautów-Boguszowska
+672,2025-01-14 10:56:23.300000,127,1,0,PR08 - ul. Opolska-Głubczycka
+673,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+674,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+675,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+676,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+677,2025-01-14 13:38:43.800000,46,0,2,PR12 - Klecina - pętla MPK
+678,2025-01-14 13:37:39.237000,-43,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+679,2025-01-14 13:16:23.340000,25,0,0,PR03B - Grabiszyn północ
+680,2025-01-14 13:38:57.330000,108,2,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+681,2025-01-14 13:20:55.560000,16,0,0,PR03A - Grabiszyn południe
+682,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+683,2025-01-14 13:18:21.463000,39,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+684,2025-01-14 13:34:41.563000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+685,2025-01-14 13:39:41.060000,1694498844,1,0,PR10 - ul. Grabiszyńska (Oporów)
+686,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+687,2025-01-14 13:36:39.753000,24,0,1,PR06 - ul. Kosmonautów-Boguszowska
+688,2025-01-14 13:32:24.703000,130,0,0,PR08 - ul. Opolska-Głubczycka
+689,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+690,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+691,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+692,2025-01-14 13:44:32.933000,46,0,0,PR12 - Klecina - pętla MPK
+693,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+694,2025-01-14 14:08:26.510000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+695,2025-01-14 13:51:18.177000,26,0,0,PR06 - ul. Kosmonautów-Boguszowska
+696,2025-01-14 07:23:15.423000,62,0,0,PR12 - Klecina - pętla MPK
+697,2025-01-14 07:34:56.850000,-35,4,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+698,2025-01-14 07:25:39.043000,29,0,0,PR03B - Grabiszyn północ
+699,2025-01-14 07:20:40.357000,98,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+700,2025-01-14 07:28:42.607000,47,0,0,PR03A - Grabiszyn południe
+701,2025-01-14 07:13:08.607000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+702,2025-01-14 07:32:17.157000,56,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+703,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+704,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+705,2025-01-14 07:33:53.010000,35,1,0,PR06 - ul. Kosmonautów-Boguszowska
+706,2025-01-14 07:34:10.203000,147,1,0,PR08 - ul. Opolska-Głubczycka
+707,2025-01-14 07:23:24.077000,37,0,0,PR05 - ul. Bardzka-Świeradowska
+708,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+709,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+710,2025-01-14 08:13:07.383000,60,1,0,PR12 - Klecina - pętla MPK
+711,2025-01-14 08:03:59.087000,-48,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+712,2025-01-14 07:57:32.877000,27,0,0,PR03B - Grabiszyn północ
+713,2025-01-14 08:14:46.217000,104,1,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+714,2025-01-14 08:10:03.500000,39,1,0,PR03A - Grabiszyn południe
+715,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+716,2025-01-14 08:13:41.513000,47,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+717,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+718,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+719,2025-01-14 08:12:33.707000,29,1,0,PR06 - ul. Kosmonautów-Boguszowska
+720,2025-01-14 08:12:45.447000,144,1,0,PR08 - ul. Opolska-Głubczycka
+721,2025-01-14 08:13:21.213000,35,1,0,PR05 - ul. Bardzka-Świeradowska
+722,2025-01-14 08:15:00.933000,-293,0,0,PR15 - ul. Kamiennogórska
+723,2025-01-14 07:45:04.107000,22,0,0,PR17 -  ul. Osobowicka
+724,2025-01-14 08:26:28.980000,58,1,0,PR12 - Klecina - pętla MPK
+725,2025-01-14 08:22:54.060000,-47,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+726,2025-01-14 07:57:32.877000,27,0,0,PR03B - Grabiszyn północ
+727,2025-01-14 08:27:40.377000,102,1,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+728,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+729,2025-01-14 09:30:09.223000,51,1,0,PR12 - Klecina - pętla MPK
+730,2025-01-14 09:30:45.023000,-48,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+731,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+732,2025-01-14 09:34:49.953000,106,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+733,2025-01-14 09:21:42.300000,28,0,0,PR03A - Grabiszyn południe
+734,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+735,2025-01-14 09:34:41.417000,-7,1,0,PR11 - ul. Ślężna-Kamienna
+736,2025-01-14 09:34:21.333000,3,1,0,PR09 - ul. Opolska-Karwińska
+737,2025-01-14 09:21:26.813000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+738,2025-01-14 09:25:37.767000,136,0,0,PR08 - ul. Opolska-Głubczycka
+739,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+740,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+741,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+742,2025-01-14 10:01:52.507000,50,0,0,PR12 - Klecina - pętla MPK
+743,2025-01-14 10:10:28.633000,-48,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+744,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+745,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+746,2025-01-14 10:11:53.377000,24,0,1,PR03A - Grabiszyn południe
+747,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+748,2025-01-14 10:11:39.947000,39,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+749,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+750,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+751,2025-01-14 10:01:48.733000,21,0,0,PR06 - ul. Kosmonautów-Boguszowska
+752,2025-01-14 10:14:49.590000,131,1,0,PR08 - ul. Opolska-Głubczycka
+753,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+754,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+755,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+756,2025-01-14 10:29:16.820000,49,0,0,PR12 - Klecina - pętla MPK
+757,2025-01-14 10:30:49.067000,-49,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+758,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+759,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+760,2025-01-14 10:34:55.173000,20,1,0,PR03A - Grabiszyn południe
+761,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+762,2025-01-14 10:32:34.510000,38,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+763,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+764,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+765,2025-01-14 10:28:41.537000,22,0,0,PR06 - ul. Kosmonautów-Boguszowska
+766,2025-01-14 10:34:45.337000,130,0,3,PR08 - ul. Opolska-Głubczycka
+767,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+768,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+769,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+770,2025-01-14 11:20:07.913000,26,0,0,PR03B - Grabiszyn północ
+771,2025-01-14 11:35:58.857000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+772,2025-01-14 11:43:59.073000,18,1,0,PR03A - Grabiszyn południe
+773,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+774,2025-01-14 11:41:46.437000,38,1,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+775,2025-01-14 11:43:39.140000,-13,1,0,PR11 - ul. Ślężna-Kamienna
+776,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+777,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+778,2025-01-14 11:44:31.587000,129,1,4,PR08 - ul. Opolska-Głubczycka
+779,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+780,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+781,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+782,2025-01-14 12:47:59.500000,110,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+783,2025-01-14 12:47:44.230000,1694498843,0,1,PR10 - ul. Grabiszyńska (Oporów)
+784,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+785,2025-01-14 12:49:22.650000,47,0,0,PR12 - Klecina - pętla MPK
+786,2025-01-14 12:51:18.633000,-46,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+787,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+788,2025-01-14 12:47:59.500000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+789,2025-01-14 12:34:18.903000,15,0,0,PR03A - Grabiszyn południe
+790,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+791,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+792,2025-01-14 12:51:27.237000,-13,1,0,PR11 - ul. Ślężna-Kamienna
+793,2025-01-14 12:53:10.577000,1694498844,0,1,PR10 - ul. Grabiszyńska (Oporów)
+794,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+795,2025-01-14 12:50:05.757000,21,0,1,PR06 - ul. Kosmonautów-Boguszowska
+796,2025-01-14 12:52:17.443000,125,0,1,PR08 - ul. Opolska-Głubczycka
+797,2025-01-14 12:50:12.070000,32,1,0,PR05 - ul. Bardzka-Świeradowska
+798,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+799,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+800,2025-01-14 13:03:39,47,0,0,PR12 - Klecina - pętla MPK
+801,2025-01-14 13:13:54.667000,-44,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+802,2025-01-14 13:05:37.233000,26,0,0,PR03B - Grabiszyn północ
+803,2025-01-14 13:12:21.347000,110,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+804,2025-01-14 13:09:38.113000,15,0,0,PR03A - Grabiszyn południe
+805,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+806,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+807,2025-01-14 13:14:56.123000,-7,0,2,PR11 - ul. Ślężna-Kamienna
+808,2025-01-14 13:12:19.240000,1694498843,1,0,PR10 - ul. Grabiszyńska (Oporów)
+809,2025-01-14 13:05:21.233000,1,0,0,PR09 - ul. Opolska-Karwińska
+810,2025-01-14 13:11:44.820000,22,0,1,PR06 - ul. Kosmonautów-Boguszowska
+811,2025-01-14 13:00:22.150000,127,0,0,PR08 - ul. Opolska-Głubczycka
+812,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+814,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+815,2025-01-14 13:44:32.933000,46,0,0,PR12 - Klecina - pętla MPK
+816,2025-01-14 13:56:10.067000,-44,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+817,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+818,2025-01-14 13:59:00.230000,107,1,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+819,2025-01-14 13:54:01.307000,16,0,0,PR03A - Grabiszyn południe
+820,2025-01-14 13:54:37.850000,41,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+821,2025-01-14 13:48:39.320000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+822,2025-01-14 13:57:46.373000,-9,0,1,PR11 - ul. Ślężna-Kamienna
+823,2025-01-14 13:56:07.930000,1694498842,0,1,PR10 - ul. Grabiszyńska (Oporów)
+824,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+825,2025-01-14 13:51:18.177000,26,0,0,PR06 - ul. Kosmonautów-Boguszowska
+826,2025-01-14 13:59:27.507000,129,1,0,PR08 - ul. Opolska-Głubczycka
+827,2025-01-14 13:59:02.940000,33,0,1,PR05 - ul. Bardzka-Świeradowska
+828,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+829,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+830,2025-01-14 12:40:35.287000,45,1,0,PR12 - Klecina - pętla MPK
+831,2025-01-14 12:43:43.613000,-47,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+832,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+833,2025-01-14 12:37:48.623000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+834,2025-01-14 12:34:18.903000,15,0,0,PR03A - Grabiszyn południe
+835,2025-01-14 12:44:55.057000,42,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+836,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+837,2025-01-14 12:20:50.847000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+838,2025-01-14 12:44:34.580000,1694498842,0,139,PR10 - ul. Grabiszyńska (Oporów)
+839,2025-01-14 12:30:34.290000,20,0,0,PR06 - ul. Kosmonautów-Boguszowska
+840,2025-01-14 12:43:35.277000,123,1,0,PR08 - ul. Opolska-Głubczycka
+841,2025-01-14 12:29:13.950000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+842,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+843,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+844,2025-01-14 13:44:32.933000,46,0,1,PR12 - Klecina - pętla MPK
+845,2025-01-14 13:43:22.813000,-44,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+846,2025-01-14 13:38:57.330000,108,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+847,2025-01-14 13:41:46.943000,15,1,0,PR03A - Grabiszyn południe
+848,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+849,2025-01-14 13:18:21.463000,39,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+850,2025-01-14 13:34:41.563000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+851,2025-01-14 13:44:43.237000,1694498842,3,0,PR10 - ul. Grabiszyńska (Oporów)
+852,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+853,2025-01-14 13:36:39.753000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+854,2025-01-14 13:32:24.703000,130,0,0,PR08 - ul. Opolska-Głubczycka
+855,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+856,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+857,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+858,2025-01-14 13:44:32.933000,46,0,0,PR12 - Klecina - pętla MPK
+859,2025-01-14 14:03:33.280000,-40,0,3,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+860,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+861,2025-01-14 14:02:08.453000,105,2,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+862,2025-01-14 13:54:01.307000,16,0,0,PR03A - Grabiszyn południe
+863,2025-01-14 13:54:37.850000,41,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+864,2025-01-14 13:48:39.320000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+865,2025-01-14 14:04:34.663000,-3,0,6,PR11 - ul. Ślężna-Kamienna
+866,2025-01-14 14:03:22.270000,1694498843,1,1,PR10 - ul. Grabiszyńska (Oporów)
+867,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+868,2025-01-14 13:51:18.177000,26,0,0,PR06 - ul. Kosmonautów-Boguszowska
+869,2025-01-14 14:04:51.390000,127,1,0,PR08 - ul. Opolska-Głubczycka
+870,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+871,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+872,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+873,2025-01-14 14:09:42.867000,129,0,1,PR08 - ul. Opolska-Głubczycka
+874,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+875,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+876,2025-01-14 14:09:05.013000,21,1,0,PR17 -  ul. Osobowicka
+877,2025-01-14 14:39:26.467000,44,1,0,PR12 - Klecina - pętla MPK
+878,2025-01-14 14:39:25.433000,-13,0,8,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+879,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+880,2025-01-14 14:38:17.457000,107,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+881,2025-01-14 14:39:25.350000,19,0,3,PR03A - Grabiszyn południe
+882,2025-01-14 14:32:12.203000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+883,2025-01-14 14:19:21.963000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+884,2025-01-14 14:23:28.617000,1,0,0,PR11 - ul. Ślężna-Kamienna
+885,2025-01-14 14:37:48.277000,1694498846,0,1,PR10 - ul. Grabiszyńska (Oporów)
+886,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+887,2025-01-14 14:39:43.913000,130,1,0,PR08 - ul. Opolska-Głubczycka
+888,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+889,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+890,2025-01-14 14:14:28.290000,22,0,0,PR17 -  ul. Osobowicka
+891,2025-01-14 11:58:08.697000,47,0,0,PR12 - Klecina - pętla MPK
+892,2025-01-14 12:08:11.763000,-50,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+893,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+894,2025-01-14 12:05:42.747000,17,1,0,PR03A - Grabiszyn południe
+949,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+895,2025-01-14 12:09:38.237000,41,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+896,2025-01-14 11:58:26.290000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+897,2025-01-14 12:05:44.773000,-11,0,1,PR11 - ul. Ślężna-Kamienna
+898,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+899,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+900,2025-01-14 12:09:20.027000,126,0,1,PR08 - ul. Opolska-Głubczycka
+901,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+902,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+903,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+904,2025-01-14 12:15:04.963000,47,0,1,PR12 - Klecina - pętla MPK
+905,2025-01-14 12:19:50.103000,-48,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+906,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+907,2025-01-14 12:15:39.820000,108,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+908,2025-01-14 12:15:03.197000,17,0,1,PR03A - Grabiszyn południe
+909,2025-01-14 12:18:05.263000,41,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+910,2025-01-14 12:16:13.083000,-13,1,0,PR11 - ul. Ślężna-Kamienna
+911,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+912,2025-01-14 12:16:03.843000,20,0,1,PR06 - ul. Kosmonautów-Boguszowska
+913,2025-01-14 12:15:38.677000,124,1,0,PR08 - ul. Opolska-Głubczycka
+914,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+915,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+916,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+917,2025-01-14 12:34:50.670000,44,1,0,PR12 - Klecina - pętla MPK
+918,2025-01-14 12:34:18.903000,15,1,0,PR03A - Grabiszyn południe
+919,2025-01-14 12:55:43.780000,48,0,1,PR12 - Klecina - pętla MPK
+920,2025-01-14 12:51:18.633000,-46,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+921,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+922,2025-01-14 12:47:59.500000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+923,2025-01-14 12:34:18.903000,15,0,0,PR03A - Grabiszyn południe
+924,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+925,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+926,2025-01-14 12:51:27.237000,-13,0,0,PR11 - ul. Ślężna-Kamienna
+927,2025-01-14 12:53:10.577000,1694498844,0,0,PR10 - ul. Grabiszyńska (Oporów)
+928,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+929,2025-01-14 12:50:05.757000,21,0,0,PR06 - ul. Kosmonautów-Boguszowska
+930,2025-01-14 12:58:46.550000,128,0,2,PR08 - ul. Opolska-Głubczycka
+931,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+932,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+933,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+934,2025-01-14 13:25:54.073000,43,1,0,PR12 - Klecina - pętla MPK
+935,2025-01-14 13:29:35.837000,-44,2,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+936,2025-01-14 13:16:23.340000,25,0,0,PR03B - Grabiszyn północ
+937,2025-01-14 13:23:16.077000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+938,2025-01-14 13:20:55.560000,16,0,0,PR03A - Grabiszyn południe
+939,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+940,2025-01-14 13:18:21.463000,39,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+941,2025-01-14 13:28:34.783000,-9,1,0,PR11 - ul. Ślężna-Kamienna
+942,2025-01-14 13:24:36.437000,0,0,0,PR09 - ul. Opolska-Karwińska
+943,2025-01-14 13:19:02.480000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+944,2025-01-14 13:27:08.940000,130,0,1,PR08 - ul. Opolska-Głubczycka
+945,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+946,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+947,2025-01-14 14:33:09.397000,45,1,0,PR12 - Klecina - pętla MPK
+948,2025-01-14 14:34:53.807000,-22,1,9,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+950,2025-01-14 14:33:27.010000,109,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+951,2025-01-14 14:32:12.203000,42,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+952,2025-01-14 14:19:21.963000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+953,2025-01-14 14:23:28.617000,1,0,0,PR11 - ul. Ślężna-Kamienna
+954,2025-01-14 14:24:11.810000,1694498844,0,0,PR10 - ul. Grabiszyńska (Oporów)
+955,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+956,2025-01-14 14:30:25.253000,24,1,0,PR06 - ul. Kosmonautów-Boguszowska
+957,2025-01-14 14:26:26.897000,131,0,0,PR08 - ul. Opolska-Głubczycka
+958,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+959,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+960,2025-01-14 14:14:28.290000,22,0,0,PR17 -  ul. Osobowicka
+961,2025-01-14 14:53:44.723000,44,0,0,PR12 - Klecina - pętla MPK
+962,2025-01-14 14:58:01.517000,1,0,3,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+963,2025-01-14 14:40:54.647000,27,0,0,PR03B - Grabiszyn północ
+964,2025-01-14 14:58:03.033000,108,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+965,2025-01-14 14:59:47.610000,21,1,0,PR03A - Grabiszyn południe
+966,2025-01-14 14:51:06.267000,41,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+967,2025-01-14 14:54:55.793000,3,0,0,PR11 - ul. Ślężna-Kamienna
+968,2025-01-14 14:59:15.777000,1694498848,1,0,PR10 - ul. Grabiszyńska (Oporów)
+969,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+970,2025-01-14 14:59:34.177000,26,0,1,PR06 - ul. Kosmonautów-Boguszowska
+971,2025-01-14 14:50:33.210000,131,0,0,PR08 - ul. Opolska-Głubczycka
+972,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+973,2025-01-14 14:59:10.870000,-293,0,1,PR15 - ul. Kamiennogórska
+974,2025-01-14 14:57:41.877000,21,0,1,PR17 -  ul. Osobowicka
+975,2025-01-14 11:58:08.697000,47,0,1,PR12 - Klecina - pętla MPK
+976,2025-01-14 11:53:32.540000,-49,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+977,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+978,2025-01-14 11:59:59.080000,109,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+979,2025-01-14 11:57:11.193000,18,0,1,PR03A - Grabiszyn południe
+980,2025-01-14 11:51:27.547000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+981,2025-01-14 11:58:26.290000,38,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+982,2025-01-14 11:52:04.557000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+983,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+984,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+985,2025-01-14 11:55:14.790000,128,1,0,PR08 - ul. Opolska-Głubczycka
+986,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+987,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+988,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+989,2025-01-14 13:03:39,47,1,0,PR12 - Klecina - pętla MPK
+990,2025-01-14 13:03:40.477000,-48,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+991,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+992,2025-01-14 12:34:18.903000,15,0,0,PR03A - Grabiszyn południe
+993,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+994,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+995,2025-01-14 13:03:30.120000,-12,1,1,PR11 - ul. Ślężna-Kamienna
+996,2025-01-14 13:04:32.320000,1694498844,2,1,PR10 - ul. Grabiszyńska (Oporów)
+997,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+998,2025-01-14 12:50:05.757000,21,0,0,PR06 - ul. Kosmonautów-Boguszowska
+999,2025-01-14 13:00:22.150000,127,1,0,PR08 - ul. Opolska-Głubczycka
+1000,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+1001,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1002,2025-01-14 13:23:31.367000,43,2,0,PR12 - Klecina - pętla MPK
+1003,2025-01-14 13:15:18.130000,-43,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1004,2025-01-14 13:16:23.340000,25,0,0,PR03B - Grabiszyn północ
+1005,2025-01-14 13:23:16.077000,110,0,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+1006,2025-01-14 13:20:55.560000,16,0,1,PR03A - Grabiszyn południe
+1007,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1008,2025-01-14 13:18:21.463000,39,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1009,2025-01-14 13:14:56.123000,-7,0,0,PR11 - ul. Ślężna-Kamienna
+1010,2025-01-14 13:24:36.437000,0,1,0,PR09 - ul. Opolska-Karwińska
+1011,2025-01-14 13:19:02.480000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1012,2025-01-14 13:19:52.217000,129,0,0,PR08 - ul. Opolska-Głubczycka
+1013,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+1014,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1015,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1016,2025-01-14 14:23:29.967000,46,0,1,PR12 - Klecina - pętla MPK
+1017,2025-01-14 14:24:03.090000,-34,1,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1018,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+1019,2025-01-14 14:08:26.510000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1020,2025-01-14 14:23:15.477000,15,0,1,PR03A - Grabiszyn południe
+1021,2025-01-14 14:14:46.697000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1022,2025-01-14 14:19:21.963000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1023,2025-01-14 14:23:28.617000,1,1,0,PR11 - ul. Ślężna-Kamienna
+1024,2025-01-14 14:24:11.810000,1694498844,0,1,PR10 - ul. Grabiszyńska (Oporów)
+1025,2025-01-14 14:22:46.370000,0,0,1,PR09 - ul. Opolska-Karwińska
+1026,2025-01-14 14:24:47.817000,25,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1027,2025-01-14 14:18:16.143000,131,0,0,PR08 - ul. Opolska-Głubczycka
+1028,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1029,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1030,2025-01-14 14:14:28.290000,22,0,0,PR17 -  ul. Osobowicka
+1031,2025-01-14 14:29:12.507000,15,0,0,PR03A - Grabiszyn południe
+1032,2025-01-14 14:43:06.587000,45,0,1,PR12 - Klecina - pętla MPK
+1033,2025-01-14 14:43:47.940000,-6,0,6,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1034,2025-01-14 14:40:54.647000,27,0,1,PR03B - Grabiszyn północ
+1035,2025-01-14 14:42:15.803000,106,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1036,2025-01-14 14:40:41.690000,20,0,1,PR03A - Grabiszyn południe
+1037,2025-01-14 14:32:12.203000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1038,2025-01-14 14:19:21.963000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1039,2025-01-14 14:40:44.407000,2,0,1,PR11 - ul. Ślężna-Kamienna
+1040,2025-01-14 14:44:15.677000,1694498848,0,1,PR10 - ul. Grabiszyńska (Oporów)
+1041,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+1042,2025-01-14 14:38:17.330000,25,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1043,2025-01-14 14:44:55.157000,131,0,1,PR08 - ul. Opolska-Głubczycka
+1044,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1045,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1046,2025-01-14 14:41:00.913000,21,1,0,PR17 -  ul. Osobowicka
+1047,2025-01-14 14:56:46.907000,42,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1048,2025-01-14 11:47:51.307000,47,0,1,PR12 - Klecina - pętla MPK
+1049,2025-01-14 11:42:36.170000,-50,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1050,2025-01-14 11:20:07.913000,26,0,0,PR03B - Grabiszyn północ
+1051,2025-01-14 11:45:22.067000,110,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1052,2025-01-14 11:49:13.590000,18,0,1,PR03A - Grabiszyn południe
+1053,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1054,2025-01-14 11:46:53.513000,39,1,2,PR04 - ul. Snycerska-Majchra (Leśnica)
+1055,2025-01-14 11:43:39.140000,-13,0,0,PR11 - ul. Ślężna-Kamienna
+1056,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1057,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1058,2025-01-14 11:44:31.587000,129,0,0,PR08 - ul. Opolska-Głubczycka
+1059,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1060,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1061,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1062,2025-01-14 11:53:36.967000,46,1,0,PR12 - Klecina - pętla MPK
+1063,2025-01-14 11:53:32.540000,-49,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1064,2025-01-14 11:53:01.870000,25,1,0,PR03B - Grabiszyn północ
+1065,2025-01-14 11:45:22.067000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1066,2025-01-14 11:53:14.913000,17,1,0,PR03A - Grabiszyn południe
+1067,2025-01-14 11:51:27.547000,42,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1068,2025-01-14 11:46:53.513000,39,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1069,2025-01-14 11:52:04.557000,-12,0,1,PR11 - ul. Ślężna-Kamienna
+1070,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1071,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1072,2025-01-14 11:44:31.587000,129,0,0,PR08 - ul. Opolska-Głubczycka
+1073,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1074,2025-01-14 12:14:37.163000,46,1,0,PR12 - Klecina - pętla MPK
+1075,2025-01-14 12:12:32.893000,-50,1,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1076,2025-01-14 13:03:39,47,0,0,PR12 - Klecina - pętla MPK
+1077,2025-01-14 13:25:54.073000,43,0,0,PR12 - Klecina - pętla MPK
+1078,2025-01-14 13:29:35.837000,-44,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1079,2025-01-14 13:16:23.340000,25,0,0,PR03B - Grabiszyn północ
+1080,2025-01-14 13:23:16.077000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1081,2025-01-14 13:20:55.560000,16,0,0,PR03A - Grabiszyn południe
+1082,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1083,2025-01-14 13:18:21.463000,39,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1084,2025-01-14 13:34:41.563000,-10,1,0,PR11 - ul. Ślężna-Kamienna
+1085,2025-01-14 13:33:36.367000,-1,1,0,PR09 - ul. Opolska-Karwińska
+1086,2025-01-14 13:19:02.480000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1087,2025-01-14 13:32:24.703000,130,0,1,PR08 - ul. Opolska-Głubczycka
+1088,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+1089,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1090,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1091,2025-01-14 13:16:23.340000,25,0,0,PR03B - Grabiszyn północ
+1092,2025-01-14 13:04:30.827000,109,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1093,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1094,2025-01-14 14:19:02.797000,46,0,1,PR12 - Klecina - pętla MPK
+1095,2025-01-14 14:08:26.510000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1096,2025-01-14 14:18:09.033000,15,1,0,PR03A - Grabiszyn południe
+1097,2025-01-14 14:14:46.697000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1098,2025-01-14 14:19:21.963000,40,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+1099,2025-01-14 14:15:39.637000,2,0,1,PR11 - ul. Ślężna-Kamienna
+1100,2025-01-14 14:18:08.737000,1694498842,1,0,PR10 - ul. Grabiszyńska (Oporów)
+1101,2025-01-14 11:58:08.697000,47,0,0,PR12 - Klecina - pętla MPK
+1102,2025-01-14 11:53:32.540000,-49,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1103,2025-01-14 11:59:59.080000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1104,2025-01-14 11:57:11.193000,18,0,0,PR03A - Grabiszyn południe
+1105,2025-01-14 11:51:27.547000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1106,2025-01-14 11:52:04.557000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+1107,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1108,2025-01-14 12:04:50.280000,125,2,0,PR08 - ul. Opolska-Głubczycka
+1109,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1110,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1111,2025-01-14 12:22:16.697000,46,1,0,PR12 - Klecina - pętla MPK
+1112,2025-01-14 12:19:50.103000,-48,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1113,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+1114,2025-01-14 12:24:14.927000,109,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1115,2025-01-14 12:15:03.197000,17,0,0,PR03A - Grabiszyn południe
+1116,2025-01-14 12:22:45.137000,42,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1117,2025-01-14 12:17:57.853000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1118,2025-01-14 12:20:50.847000,-12,0,1,PR11 - ul. Ślężna-Kamienna
+1119,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1120,2025-01-14 12:16:03.843000,20,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1121,2025-01-14 12:24:53.327000,122,1,0,PR08 - ul. Opolska-Głubczycka
+1122,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1123,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1124,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1125,2025-01-14 12:39:41.190000,46,0,1,PR12 - Klecina - pętla MPK
+1126,2025-01-14 12:37:06.403000,-46,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1127,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+1128,2025-01-14 12:37:48.623000,109,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1129,2025-01-14 12:34:18.903000,15,0,0,PR03A - Grabiszyn południe
+1130,2025-01-14 12:22:45.137000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1131,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1132,2025-01-14 12:20:50.847000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+1133,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1134,2025-01-14 12:30:34.290000,20,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1135,2025-01-14 12:32:40.887000,124,0,0,PR08 - ul. Opolska-Głubczycka
+1136,2025-01-14 12:29:13.950000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1137,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1138,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1139,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1140,2025-01-14 12:49:22.650000,47,0,1,PR12 - Klecina - pętla MPK
+1141,2025-01-14 12:43:43.613000,-47,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1142,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+1143,2025-01-14 12:34:18.903000,15,0,0,PR03A - Grabiszyn południe
+1144,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1145,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1146,2025-01-14 12:20:50.847000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+1147,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1148,2025-01-14 12:30:34.290000,20,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1149,2025-01-14 12:46:22.777000,124,0,1,PR08 - ul. Opolska-Głubczycka
+1150,2025-01-14 12:29:13.950000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1151,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1152,2025-01-14 13:44:32.933000,46,0,0,PR12 - Klecina - pętla MPK
+1153,2025-01-14 13:43:22.813000,-44,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1154,2025-01-14 13:47:55.353000,26,0,1,PR03B - Grabiszyn północ
+1155,2025-01-14 13:38:57.330000,108,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1156,2025-01-14 13:41:46.943000,15,0,0,PR03A - Grabiszyn południe
+1157,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1158,2025-01-14 13:48:39.320000,37,2,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1159,2025-01-14 13:34:41.563000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+1160,2025-01-14 13:48:31.363000,1694498841,1,0,PR10 - ul. Grabiszyńska (Oporów)
+1161,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+1162,2025-01-14 13:36:39.753000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1163,2025-01-14 13:49:10.150000,131,0,1,PR08 - ul. Opolska-Głubczycka
+1164,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+1165,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1166,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1167,2025-01-14 13:44:32.933000,46,0,0,PR12 - Klecina - pętla MPK
+1168,2025-01-14 14:08:27.407000,-39,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1169,2025-01-14 13:47:55.353000,26,0,0,PR03B - Grabiszyn północ
+1170,2025-01-14 14:08:26.510000,110,0,4,PR01B - Psie Pole - Stacja PKP parking nr 3
+1171,2025-01-14 13:54:01.307000,16,0,0,PR03A - Grabiszyn południe
+1172,2025-01-14 13:54:37.850000,41,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1173,2025-01-14 13:48:39.320000,37,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1174,2025-01-14 14:09:24.957000,-1,0,2,PR11 - ul. Ślężna-Kamienna
+1175,2025-01-14 14:08:10.503000,1694498843,0,1,PR10 - ul. Grabiszyńska (Oporów)
+1176,2025-01-14 13:33:36.367000,-1,0,0,PR09 - ul. Opolska-Karwińska
+1177,2025-01-14 13:51:18.177000,26,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1178,2025-01-14 13:09:09.813000,-45,0,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1179,2025-01-14 13:05:37.233000,26,0,1,PR03B - Grabiszyn północ
+1180,2025-01-14 13:06:00.877000,110,0,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+1181,2025-01-14 13:09:38.113000,15,0,1,PR03A - Grabiszyn południe
+1182,2025-01-14 12:44:55.057000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1183,2025-01-14 12:34:15.173000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1184,2025-01-14 13:09:51.283000,-10,1,2,PR11 - ul. Ślężna-Kamienna
+1185,2025-01-14 13:04:32.320000,1694498844,0,0,PR10 - ul. Grabiszyńska (Oporów)
+1186,2025-01-14 13:05:21.233000,1,1,0,PR09 - ul. Opolska-Karwińska
+1187,2025-01-14 12:50:05.757000,21,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1188,2025-01-14 13:00:22.150000,127,0,0,PR08 - ul. Opolska-Głubczycka
+1189,2025-01-14 12:50:12.070000,32,0,0,PR05 - ul. Bardzka-Świeradowska
+1190,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1191,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1192,2025-01-14 15:03:31.217000,43,0,2,PR04 - ul. Snycerska-Majchra (Leśnica)
+1193,2025-01-14 15:04:12.807000,3,0,0,PR11 - ul. Ślężna-Kamienna
+1194,2025-01-14 14:59:15.777000,1694498848,0,0,PR10 - ul. Grabiszyńska (Oporów)
+1195,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+1196,2025-01-14 15:00:29.343000,27,0,1,PR06 - ul. Kosmonautów-Boguszowska
+1197,2025-01-14 15:02:21.697000,129,1,0,PR08 - ul. Opolska-Głubczycka
+1198,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1199,2025-01-14 14:59:10.870000,-293,0,0,PR15 - ul. Kamiennogórska
+1200,2025-01-14 14:57:41.877000,21,0,0,PR17 -  ul. Osobowicka
+1201,2025-01-14 08:53:01.257000,54,0,0,PR12 - Klecina - pętla MPK
+1202,2025-01-14 08:58:55.203000,-48,1,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1203,2025-01-14 09:27:55.160000,52,1,0,PR12 - Klecina - pętla MPK
+1204,2025-01-14 09:28:39.987000,-49,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1205,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1206,2025-01-14 09:28:24.820000,107,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1207,2025-01-14 09:21:42.300000,28,0,0,PR03A - Grabiszyn południe
+1208,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1209,2025-01-14 08:58:10.797000,41,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1210,2025-01-14 09:12:40.033000,-6,0,0,PR11 - ul. Ślężna-Kamienna
+1211,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1212,2025-01-14 09:21:26.813000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1213,2025-01-14 09:25:37.767000,136,0,1,PR08 - ul. Opolska-Głubczycka
+1214,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1215,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1216,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+1217,2025-01-14 12:09:47.083000,109,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1218,2025-01-14 13:51:18.177000,26,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1219,2025-01-14 14:18:16.143000,131,0,2,PR08 - ul. Opolska-Głubczycka
+1220,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1221,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1222,2025-01-14 14:14:28.290000,22,0,0,PR17 -  ul. Osobowicka
+1223,2025-01-14 15:09:40.253000,44,1,0,PR12 - Klecina - pętla MPK
+1224,2025-01-14 15:09:50.767000,15,1,10,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1225,2025-01-14 15:08:02.410000,28,0,1,PR03B - Grabiszyn północ
+1226,2025-01-14 15:09:05.503000,105,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1227,2025-01-14 15:07:03.613000,23,0,1,PR03A - Grabiszyn południe
+1228,2025-01-14 14:56:46.907000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1229,2025-01-14 15:03:31.217000,43,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1230,2025-01-14 15:05:08.477000,4,0,1,PR11 - ul. Ślężna-Kamienna
+1231,2025-01-14 15:08:42.960000,1694498848,2,1,PR10 - ul. Grabiszyńska (Oporów)
+1232,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+1233,2025-01-14 15:10:00.110000,29,0,1,PR06 - ul. Kosmonautów-Boguszowska
+1234,2025-01-14 15:08:32.627000,130,0,1,PR08 - ul. Opolska-Głubczycka
+1235,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1236,2025-01-14 14:57:41.877000,21,0,0,PR17 -  ul. Osobowicka
+1237,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1238,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1239,2025-01-14 04:46:46.730000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1240,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1241,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1242,2025-01-14 04:57:26.790000,15,1,0,PR11 - ul. Ślężna-Kamienna
+1243,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1244,2025-01-14 04:50:25.170000,159,0,0,PR08 - ul. Opolska-Głubczycka
+1245,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1246,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1247,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1248,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1249,2025-01-14 04:46:46.730000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1250,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1251,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1252,2025-01-14 05:04:38.720000,13,1,0,PR11 - ul. Ślężna-Kamienna
+1253,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1254,2025-01-14 05:04:17.720000,84,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1255,2025-01-14 04:50:25.170000,159,0,0,PR08 - ul. Opolska-Głubczycka
+1256,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1257,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1258,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1259,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1260,2025-01-14 04:46:46.730000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1261,2025-01-14 05:07:02.280000,44,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1262,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1263,2025-01-14 05:04:38.720000,13,0,0,PR11 - ul. Ślężna-Kamienna
+1264,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1265,2025-01-14 05:04:17.720000,84,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1266,2025-01-14 04:50:25.170000,159,0,0,PR08 - ul. Opolska-Głubczycka
+1267,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1268,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1269,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1270,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1271,2025-01-14 05:23:52.487000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1272,2025-01-14 05:19:49.887000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1327,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1273,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1274,2025-01-14 05:38:19.357000,7,1,0,PR11 - ul. Ślężna-Kamienna
+1275,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1276,2025-01-14 05:28:14.713000,80,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1277,2025-01-14 05:34:32.400000,158,0,0,PR08 - ul. Opolska-Głubczycka
+1278,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1279,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1280,2025-01-14 06:04:54.757000,160,1,0,PR08 - ul. Opolska-Głubczycka
+1281,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1282,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1283,2025-01-14 06:29:26.190000,30,2,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1284,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1285,2025-01-14 06:29:51.007000,93,5,3,PR01B - Psie Pole - Stacja PKP parking nr 3
+1286,2025-01-14 06:24:12.767000,53,0,0,PR03A - Grabiszyn południe
+1287,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1288,2025-01-14 06:26:16.960000,74,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1289,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1290,2025-01-14 06:26:58.227000,9,1,0,PR09 - ul. Opolska-Karwińska
+1291,2025-01-14 06:27:51.697000,68,2,0,PR06 - ul. Kosmonautów-Boguszowska
+1292,2025-01-14 06:28:34.123000,155,0,1,PR08 - ul. Opolska-Głubczycka
+1293,2025-01-14 06:20:13.780000,-291,0,0,PR15 - ul. Kamiennogórska
+1294,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1295,2025-01-14 06:49:58.040000,5,6,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1296,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1297,2025-01-14 06:49:38.260000,90,4,5,PR01B - Psie Pole - Stacja PKP parking nr 3
+1298,2025-01-14 06:31:21.290000,52,0,0,PR03A - Grabiszyn południe
+1299,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1300,2025-01-14 06:49:56.997000,68,2,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1301,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1302,2025-01-14 06:38:14.327000,7,0,0,PR09 - ul. Opolska-Karwińska
+1303,2025-01-14 06:49:39.600000,55,4,0,PR06 - ul. Kosmonautów-Boguszowska
+1304,2025-01-14 06:48:56.887000,153,1,0,PR08 - ul. Opolska-Głubczycka
+1305,2025-01-14 06:41:55.313000,38,0,0,PR05 - ul. Bardzka-Świeradowska
+1306,2025-01-14 06:37:24.740000,-292,0,0,PR15 - ul. Kamiennogórska
+1307,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1308,2025-01-14 07:23:15.423000,62,1,1,PR12 - Klecina - pętla MPK
+1309,2025-01-14 07:24:09.167000,-25,7,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1310,2025-01-14 07:23:12.883000,30,1,0,PR03B - Grabiszyn północ
+1311,2025-01-14 07:20:40.357000,98,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1312,2025-01-14 07:23:20.313000,48,1,0,PR03A - Grabiszyn południe
+1313,2025-01-14 07:13:08.607000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1314,2025-01-14 07:24:12.397000,58,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1315,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+1316,2025-01-14 07:14:29.530000,5,0,0,PR09 - ul. Opolska-Karwińska
+1317,2025-01-14 06:22:45.873000,31,2,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1318,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1319,2025-01-14 06:24:10.030000,96,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1320,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1321,2025-01-14 06:23:19.857000,74,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1322,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1323,2025-01-14 06:17:38.933000,10,0,0,PR09 - ul. Opolska-Karwińska
+1324,2025-01-14 06:19:10.377000,70,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1325,2025-01-14 06:24:55.463000,155,2,2,PR08 - ul. Opolska-Głubczycka
+1326,2025-01-14 06:20:13.780000,-291,0,0,PR15 - ul. Kamiennogórska
+1328,2025-01-14 06:31:21.290000,52,0,0,PR03A - Grabiszyn południe
+1329,2025-01-14 08:09:58.037000,40,0,0,PR03A - Grabiszyn południe
+1330,2025-01-14 08:21:23.873000,36,0,0,PR03A - Grabiszyn południe
+1331,2025-01-14 08:19:30.277000,44,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1332,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+1333,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1334,2025-01-14 08:28:50.227000,27,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1335,2025-01-14 08:28:05.517000,140,1,0,PR08 - ul. Opolska-Głubczycka
+1336,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+1337,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+1338,2025-01-14 08:27:26.373000,23,0,1,PR17 -  ul. Osobowicka
+1339,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1340,2025-01-14 09:52:07.023000,51,0,0,PR12 - Klecina - pętla MPK
+1341,2025-01-14 09:56:54.953000,-48,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1342,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1343,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+1344,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+1345,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1346,2025-01-14 09:38:50.627000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1347,2025-01-14 12:17:57.853000,37,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1348,2025-01-14 12:34:28.053000,-47,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1349,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+1350,2025-01-14 12:32:00.987000,108,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1351,2025-01-14 12:22:45.137000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1352,2025-01-14 12:34:15.173000,38,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+1353,2025-01-14 12:20:50.847000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+1354,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1355,2025-01-14 12:30:34.290000,20,0,1,PR06 - ul. Kosmonautów-Boguszowska
+1356,2025-01-14 12:32:40.887000,124,0,1,PR08 - ul. Opolska-Głubczycka
+1357,2025-01-14 12:29:13.950000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1358,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1359,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1360,2025-01-14 07:47:33.883000,60,0,0,PR12 - Klecina - pętla MPK
+1361,2025-01-14 07:50:34.937000,-45,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1362,2025-01-14 07:41:59.177000,28,0,0,PR03B - Grabiszyn północ
+1363,2025-01-14 07:54:43.543000,94,5,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+1364,2025-01-14 07:51:51.623000,41,2,0,PR03A - Grabiszyn południe
+1365,2025-01-14 07:54:39.007000,42,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1366,2025-01-14 07:54:20.523000,53,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1367,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+1368,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1369,2025-01-14 07:54:52.093000,33,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1370,2025-01-14 07:49:28.730000,146,0,0,PR08 - ul. Opolska-Głubczycka
+1371,2025-01-14 07:36:48.823000,36,0,0,PR05 - ul. Bardzka-Świeradowska
+1372,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+1373,2025-01-14 07:45:04.107000,22,0,0,PR17 -  ul. Osobowicka
+1374,2025-01-14 09:37:53.273000,50,1,0,PR12 - Klecina - pętla MPK
+1375,2025-01-14 09:38:53.383000,-47,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1376,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1377,2025-01-14 09:39:13.130000,106,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1378,2025-01-14 09:36:07.010000,27,1,0,PR03A - Grabiszyn południe
+1379,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1380,2025-01-14 09:38:50.627000,40,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1381,2025-01-14 09:39:48.527000,-8,1,0,PR11 - ul. Ślężna-Kamienna
+1382,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+1383,2025-01-14 09:21:26.813000,23,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1384,2025-01-14 09:36:04.197000,136,1,0,PR08 - ul. Opolska-Głubczycka
+1385,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1386,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1387,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+1388,2025-01-14 11:36:05.950000,-49,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1389,2025-01-14 11:20:07.913000,26,0,0,PR03B - Grabiszyn północ
+1390,2025-01-14 11:35:58.857000,109,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1391,2025-01-14 11:36:21.230000,19,1,0,PR03A - Grabiszyn południe
+1392,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1393,2025-01-14 11:32:34.817000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1394,2025-01-14 11:33:53.563000,-12,0,0,PR11 - ul. Ślężna-Kamienna
+1395,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1396,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1397,2025-01-14 11:32:32.067000,125,0,0,PR08 - ul. Opolska-Głubczycka
+1398,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1399,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1400,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1401,2025-01-14 14:29:12.507000,15,0,1,PR03A - Grabiszyn południe
+1402,2025-01-14 14:14:46.697000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1403,2025-01-14 14:19:21.963000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1404,2025-01-14 14:23:28.617000,1,0,0,PR11 - ul. Ślężna-Kamienna
+1405,2025-01-14 14:24:11.810000,1694498844,0,0,PR10 - ul. Grabiszyńska (Oporów)
+1406,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+1407,2025-01-14 14:24:47.817000,25,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1408,2025-01-14 14:26:26.897000,131,1,0,PR08 - ul. Opolska-Głubczycka
+1409,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1410,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1411,2025-01-14 14:14:28.290000,22,0,0,PR17 -  ul. Osobowicka
+1412,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1413,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1414,2025-01-14 07:14:12.117000,-15,5,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1415,2025-01-14 07:14:56.003000,32,0,0,PR03B - Grabiszyn północ
+1416,2025-01-14 07:14:53.817000,85,15,5,PR01B - Psie Pole - Stacja PKP parking nr 3
+1417,2025-01-14 07:10:36.353000,50,1,0,PR03A - Grabiszyn południe
+1418,2025-01-14 07:13:08.607000,43,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1419,2025-01-14 07:14:38.530000,58,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1420,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1421,2025-01-14 07:14:29.530000,5,1,0,PR09 - ul. Opolska-Karwińska
+1422,2025-01-14 09:00:48.800000,54,1,1,PR12 - Klecina - pętla MPK
+1423,2025-01-14 09:03:36.153000,-47,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1424,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1425,2025-01-14 09:01:56.363000,106,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1426,2025-01-14 09:00:23.697000,29,1,0,PR03A - Grabiszyn południe
+1427,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1428,2025-01-14 08:58:10.797000,41,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1429,2025-01-14 09:04:25.853000,-3,1,0,PR11 - ul. Ślężna-Kamienna
+1430,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1431,2025-01-14 08:51:56.130000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1432,2025-01-14 08:52:14.853000,136,0,0,PR08 - ul. Opolska-Głubczycka
+1433,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+1434,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+1435,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+1436,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1437,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1438,2025-01-14 04:13:53.567000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1439,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1440,2025-01-14 04:29:23.713000,17,1,0,PR11 - ul. Ślężna-Kamienna
+1441,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1442,2025-01-14 06:03:53.307000,35,5,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1443,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1444,2025-01-14 06:03:48.183000,101,3,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1445,2025-01-14 06:04:45.967000,55,1,0,PR03A - Grabiszyn południe
+1446,2025-01-14 05:51:06.033000,44,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1447,2025-01-14 06:04:23.777000,77,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+1448,2025-01-14 05:52:54.303000,1,0,0,PR11 - ul. Ślężna-Kamienna
+1449,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1450,2025-01-14 06:04:33.380000,73,4,0,PR06 - ul. Kosmonautów-Boguszowska
+1451,2025-01-14 07:19:58.323000,-17,3,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1452,2025-01-14 07:15:25.887000,31,1,0,PR03B - Grabiszyn północ
+1453,2025-01-14 07:19:22.917000,97,7,18,PR01B - Psie Pole - Stacja PKP parking nr 3
+1454,2025-01-14 07:19:19.027000,49,1,0,PR03A - Grabiszyn południe
+1455,2025-01-14 07:13:08.607000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1456,2025-01-14 07:15:05.330000,59,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+1457,2025-01-14 07:16:44.740000,-1,1,0,PR11 - ul. Ślężna-Kamienna
+1458,2025-01-14 07:14:29.530000,5,0,0,PR09 - ul. Opolska-Karwińska
+1459,2025-01-14 07:19:48.020000,41,5,0,PR06 - ul. Kosmonautów-Boguszowska
+1460,2025-01-14 07:18:47.097000,145,1,0,PR08 - ul. Opolska-Głubczycka
+1461,2025-01-14 06:41:55.313000,38,0,0,PR05 - ul. Bardzka-Świeradowska
+1462,2025-01-14 07:19:28.197000,-294,1,0,PR15 - ul. Kamiennogórska
+1463,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1464,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1465,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1466,2025-01-14 04:46:46.730000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1467,2025-01-14 05:07:02.280000,44,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1468,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1469,2025-01-14 05:04:38.720000,13,0,0,PR11 - ul. Ślężna-Kamienna
+1470,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1471,2025-01-14 05:04:17.720000,84,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1472,2025-01-14 04:50:25.170000,159,0,0,PR08 - ul. Opolska-Głubczycka
+1473,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1474,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1475,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1476,2025-01-14 05:47:27.710000,78,2,0,PR06 - ul. Kosmonautów-Boguszowska
+1477,2025-01-14 05:47:36.223000,162,0,6,PR08 - ul. Opolska-Głubczycka
+1478,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1479,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1480,2025-01-14 06:09:26.297000,33,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1481,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1482,2025-01-14 06:09:36.743000,100,2,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1483,2025-01-14 06:04:45.967000,55,0,0,PR03A - Grabiszyn południe
+1484,2025-01-14 05:51:06.033000,44,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1485,2025-01-14 06:04:23.777000,77,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1486,2025-01-14 05:52:54.303000,1,0,0,PR11 - ul. Ślężna-Kamienna
+1487,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1488,2025-01-14 06:07:40.100000,72,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1489,2025-01-14 06:08:01.937000,158,1,0,PR08 - ul. Opolska-Głubczycka
+1490,2025-01-14 06:07:30.180000,-290,0,1,PR15 - ul. Kamiennogórska
+1491,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1492,2025-01-14 06:24:12.767000,53,1,0,PR03A - Grabiszyn południe
+1493,2025-01-14 06:58:11.397000,67,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1494,2025-01-14 06:41:55.313000,38,0,0,PR05 - ul. Bardzka-Świeradowska
+1495,2025-01-14 07:57:35.567000,61,0,1,PR12 - Klecina - pętla MPK
+1496,2025-01-14 10:01:52.507000,50,1,0,PR12 - Klecina - pętla MPK
+1497,2025-01-14 09:56:54.953000,-48,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1498,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1499,2025-01-14 10:03:43.023000,110,2,4,PR01B - Psie Pole - Stacja PKP parking nr 3
+1500,2025-01-14 09:50:31.540000,24,0,0,PR03A - Grabiszyn południe
+1501,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1502,2025-01-14 09:38:50.627000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1503,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+1504,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+1505,2025-01-14 10:01:48.733000,21,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1506,2025-01-14 10:03:49.590000,133,0,1,PR08 - ul. Opolska-Głubczycka
+1507,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1508,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1509,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1510,2025-01-14 08:22:10.417000,59,1,0,PR12 - Klecina - pętla MPK
+1511,2025-01-14 08:22:54.060000,-47,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1512,2025-01-14 07:57:32.877000,27,0,0,PR03B - Grabiszyn północ
+1513,2025-01-14 08:22:54.480000,103,1,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1514,2025-01-14 08:21:23.873000,36,1,0,PR03A - Grabiszyn południe
+1515,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1516,2025-01-14 08:19:30.277000,44,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1517,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+1518,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1519,2025-01-14 08:12:33.707000,29,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1520,2025-01-14 08:24:50.703000,141,2,1,PR08 - ul. Opolska-Głubczycka
+1521,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+1522,2025-01-14 08:15:00.933000,-293,0,0,PR15 - ul. Kamiennogórska
+1523,2025-01-14 07:45:04.107000,22,0,0,PR17 -  ul. Osobowicka
+1524,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+1525,2025-01-14 09:59:12.927000,107,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1526,2025-01-14 09:50:31.540000,24,0,0,PR03A - Grabiszyn południe
+1527,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1528,2025-01-14 09:38:50.627000,40,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1529,2025-01-14 10:01:52.507000,50,0,0,PR12 - Klecina - pętla MPK
+1530,2025-01-14 10:18:21.957000,-49,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1531,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1532,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1533,2025-01-14 10:17:16.647000,23,1,0,PR03A - Grabiszyn południe
+1534,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1535,2025-01-14 10:11:39.947000,39,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1536,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+1537,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+1538,2025-01-14 10:01:48.733000,21,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1539,2025-01-14 10:16:17.090000,130,1,0,PR08 - ul. Opolska-Głubczycka
+1540,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1541,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1542,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1543,2025-01-14 10:01:52.507000,50,0,0,PR12 - Klecina - pętla MPK
+1544,2025-01-14 10:18:21.957000,-49,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1545,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1546,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1547,2025-01-14 10:17:16.647000,23,0,0,PR03A - Grabiszyn południe
+1548,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1549,2025-01-14 10:21:10.187000,38,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1550,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+1551,2025-01-14 09:34:21.333000,3,0,0,PR09 - ul. Opolska-Karwińska
+1552,2025-01-14 10:01:48.733000,21,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1553,2025-01-14 10:23:56.040000,129,1,0,PR08 - ul. Opolska-Głubczycka
+1554,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1555,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1556,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1557,2025-01-14 10:29:16.820000,49,0,0,PR12 - Klecina - pętla MPK
+1558,2025-01-14 10:42:46.617000,-49,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1559,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+1560,2025-01-14 10:03:43.023000,110,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1561,2025-01-14 10:42:17.883000,21,0,1,PR03A - Grabiszyn południe
+1562,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1563,2025-01-14 10:39:28.490000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1564,2025-01-14 09:50:44.063000,-10,0,0,PR11 - ul. Ślężna-Kamienna
+1565,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1566,2025-01-14 10:28:41.537000,22,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1567,2025-01-14 10:41:56.970000,129,0,1,PR08 - ul. Opolska-Głubczycka
+1568,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1569,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1570,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1571,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1572,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1573,2025-01-14 04:13:53.567000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1574,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1575,2025-01-14 04:11:50.643000,18,0,0,PR11 - ul. Ślężna-Kamienna
+1576,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1577,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1578,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1579,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1580,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1581,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1582,2025-01-14 04:46:46.730000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1583,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1584,2025-01-14 04:54:22.130000,79,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1585,2025-01-14 04:53:25.467000,16,1,0,PR11 - ul. Ślężna-Kamienna
+1586,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1587,2025-01-14 04:50:25.170000,159,1,0,PR08 - ul. Opolska-Głubczycka
+1588,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1589,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1590,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1591,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1592,2025-01-14 05:23:52.487000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1593,2025-01-14 05:19:49.887000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1594,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1595,2025-01-14 05:16:52.213000,11,0,0,PR11 - ul. Ślężna-Kamienna
+1596,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1597,2025-01-14 05:28:14.713000,80,2,0,PR06 - ul. Kosmonautów-Boguszowska
+1598,2025-01-14 04:50:25.170000,159,0,0,PR08 - ul. Opolska-Głubczycka
+1599,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1600,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1601,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1602,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1603,2025-01-14 05:23:52.487000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1604,2025-01-14 05:19:49.887000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1605,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1606,2025-01-14 05:32:49.617000,9,1,0,PR11 - ul. Ślężna-Kamienna
+1607,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1608,2025-01-14 05:28:14.713000,80,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1609,2025-01-14 05:34:32.400000,158,1,0,PR08 - ul. Opolska-Głubczycka
+1610,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1611,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1612,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1613,2025-01-14 06:34:56.987000,22,8,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1614,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1615,2025-01-14 06:31:19.497000,95,0,3,PR01B - Psie Pole - Stacja PKP parking nr 3
+1616,2025-01-14 06:31:21.290000,52,1,0,PR03A - Grabiszyn południe
+1617,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1618,2025-01-14 06:26:16.960000,74,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1619,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1620,2025-01-14 06:26:58.227000,9,0,0,PR09 - ul. Opolska-Karwińska
+1621,2025-01-14 06:32:39.557000,67,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1622,2025-01-14 06:33:33.263000,154,1,0,PR08 - ul. Opolska-Głubczycka
+1623,2025-01-14 06:31:25.990000,39,1,0,PR05 - ul. Bardzka-Świeradowska
+1624,2025-01-14 06:20:13.780000,-291,0,0,PR15 - ul. Kamiennogórska
+1625,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1626,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1627,2025-01-14 08:58:33.980000,106,3,3,PR01B - Psie Pole - Stacja PKP parking nr 3
+1628,2025-01-14 08:55:55.023000,30,1,0,PR03A - Grabiszyn południe
+1629,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1630,2025-01-14 08:58:10.797000,41,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1631,2025-01-14 08:59:48.137000,-2,1,0,PR11 - ul. Ślężna-Kamienna
+1632,2025-01-14 08:51:56.130000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1633,2025-01-14 08:52:14.853000,136,0,0,PR08 - ul. Opolska-Głubczycka
+1634,2025-01-14 08:13:21.213000,35,0,0,PR05 - ul. Bardzka-Świeradowska
+1635,2025-01-14 08:27:15.757000,-293,0,0,PR15 - ul. Kamiennogórska
+1636,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+1637,2025-01-14 10:29:16.820000,49,0,0,PR12 - Klecina - pętla MPK
+1638,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1639,2025-01-14 10:59:22.140000,-11,0,0,PR11 - ul. Ślężna-Kamienna
+1640,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1641,2025-01-14 10:56:32.587000,20,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1642,2025-01-14 11:08:41.087000,127,2,2,PR08 - ul. Opolska-Głubczycka
+1643,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1644,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1645,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1646,2025-01-14 11:28:55.693000,45,0,0,PR12 - Klecina - pętla MPK
+1647,2025-01-14 11:33:11.333000,-50,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1648,2025-01-14 11:20:07.913000,26,0,0,PR03B - Grabiszyn północ
+1649,2025-01-14 11:34:59.053000,107,1,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1650,2025-01-14 11:18:59.217000,20,0,0,PR03A - Grabiszyn południe
+1651,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1652,2025-01-14 11:32:34.817000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1653,2025-01-14 11:33:53.563000,-12,0,1,PR11 - ul. Ślężna-Kamienna
+1654,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1655,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1656,2025-01-14 11:32:32.067000,125,1,1,PR08 - ul. Opolska-Głubczycka
+1657,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1658,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1659,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1660,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1661,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1662,2025-01-14 11:53:01.870000,25,0,0,PR03B - Grabiszyn północ
+1663,2025-01-14 11:58:26.290000,38,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1664,2025-01-14 11:18:04.640000,19,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1665,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1666,2025-01-14 14:38:17.330000,25,0,1,PR06 - ul. Kosmonautów-Boguszowska
+1667,2025-01-14 14:49:31.217000,45,1,0,PR12 - Klecina - pętla MPK
+1668,2025-01-14 14:48:26.750000,-7,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1669,2025-01-14 14:40:54.647000,27,0,0,PR03B - Grabiszyn północ
+1670,2025-01-14 14:49:06.687000,106,0,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+1671,2025-01-14 14:40:41.690000,20,0,0,PR03A - Grabiszyn południe
+1672,2025-01-14 14:32:12.203000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1673,2025-01-14 14:53:44.723000,44,2,0,PR12 - Klecina - pętla MPK
+1674,2025-01-14 14:54:58.407000,-3,2,5,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1675,2025-01-14 14:40:54.647000,27,0,0,PR03B - Grabiszyn północ
+1676,2025-01-14 14:51:10.583000,109,0,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+1677,2025-01-14 14:53:34.347000,21,0,1,PR03A - Grabiszyn południe
+1678,2025-01-14 14:52:19.157000,41,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1679,2025-01-14 14:51:06.267000,41,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+1680,2025-01-14 14:54:55.793000,3,0,1,PR11 - ul. Ślężna-Kamienna
+1681,2025-01-14 14:54:01.683000,1694498849,0,1,PR10 - ul. Grabiszyńska (Oporów)
+1682,2025-01-14 14:22:46.370000,0,0,0,PR09 - ul. Opolska-Karwińska
+1683,2025-01-14 14:47:15.320000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1684,2025-01-14 14:50:33.210000,131,1,0,PR08 - ul. Opolska-Głubczycka
+1685,2025-01-14 13:59:02.940000,33,0,0,PR05 - ul. Bardzka-Świeradowska
+1686,2025-01-14 12:37:35.520000,-294,0,0,PR15 - ul. Kamiennogórska
+1687,2025-01-14 14:48:05.483000,20,0,0,PR17 -  ul. Osobowicka
+1688,2025-01-14 14:53:44.723000,44,0,0,PR12 - Klecina - pętla MPK
+1689,2025-01-14 15:04:45.233000,5,2,5,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1690,2025-01-14 14:40:54.647000,27,0,0,PR03B - Grabiszyn północ
+1691,2025-01-14 15:04:37.333000,107,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1692,2025-01-14 15:01:22.150000,22,0,1,PR03A - Grabiszyn południe
+1693,2025-01-14 14:56:46.907000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1694,2025-01-14 15:12:13.067000,46,0,1,PR12 - Klecina - pętla MPK
+1695,2025-01-14 15:13:27.317000,17,1,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1696,2025-01-14 15:08:02.410000,28,0,0,PR03B - Grabiszyn północ
+1697,2025-01-14 15:14:42.987000,110,1,7,PR01B - Psie Pole - Stacja PKP parking nr 3
+1698,2025-01-14 15:13:31.750000,24,0,1,PR03A - Grabiszyn południe
+1699,2025-01-14 14:56:46.907000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1700,2025-01-14 15:12:58.627000,44,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+1701,2025-01-14 15:05:08.477000,4,0,0,PR11 - ul. Ślężna-Kamienna
+1702,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1703,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1704,2025-01-14 04:13:53.567000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1811,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1705,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1706,2025-01-14 04:11:50.643000,18,0,0,PR11 - ul. Ślężna-Kamienna
+1707,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1708,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1709,2025-01-14 05:15:33.023000,108,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1710,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1711,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1712,2025-01-14 05:44:58.587000,105,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1713,2025-01-14 05:19:49.887000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1714,2025-01-14 05:44:12.127000,77,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1715,2025-01-14 05:44:08.793000,4,2,0,PR11 - ul. Ślężna-Kamienna
+1716,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1717,2025-01-14 05:28:14.713000,80,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1718,2025-01-14 05:44:20.907000,157,2,0,PR08 - ul. Opolska-Głubczycka
+1719,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1720,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1721,2025-01-14 06:54:07.967000,3,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1722,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1723,2025-01-14 06:54:09.873000,88,5,2,PR01B - Psie Pole - Stacja PKP parking nr 3
+1724,2025-01-14 06:31:21.290000,52,0,0,PR03A - Grabiszyn południe
+1725,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1726,2025-01-14 06:49:56.997000,68,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1727,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1728,2025-01-14 06:54:31.693000,6,1,0,PR09 - ul. Opolska-Karwińska
+1729,2025-01-14 06:51:59.797000,54,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1730,2025-01-14 06:54:16.653000,151,1,0,PR08 - ul. Opolska-Głubczycka
+1731,2025-01-14 06:41:55.313000,38,0,0,PR05 - ul. Bardzka-Świeradowska
+1732,2025-01-14 06:37:24.740000,-292,0,0,PR15 - ul. Kamiennogórska
+1733,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1734,2025-01-14 07:08:25.073000,-11,2,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1735,2025-01-14 07:06:08.897000,32,1,0,PR03B - Grabiszyn północ
+1736,2025-01-14 07:09:29.843000,94,2,3,PR01B - Psie Pole - Stacja PKP parking nr 3
+1737,2025-01-14 07:00:13.487000,51,0,0,PR03A - Grabiszyn południe
+1738,2025-01-14 07:09:45.673000,42,0,2,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1739,2025-01-14 07:09:56.190000,60,3,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1740,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1741,2025-01-14 06:54:31.693000,6,0,0,PR09 - ul. Opolska-Karwińska
+1742,2025-01-14 07:09:06.530000,49,3,0,PR06 - ul. Kosmonautów-Boguszowska
+1743,2025-01-14 07:09:51.300000,148,1,0,PR08 - ul. Opolska-Głubczycka
+1744,2025-01-14 06:41:55.313000,38,0,0,PR05 - ul. Bardzka-Świeradowska
+1745,2025-01-14 07:09:30.920000,-294,3,2,PR15 - ul. Kamiennogórska
+1746,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1747,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1748,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1749,2025-01-14 05:44:58.587000,105,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1750,2025-01-14 05:19:49.887000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1751,2025-01-14 05:44:12.127000,77,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1752,2025-01-14 05:45:50.377000,3,1,0,PR11 - ul. Ślężna-Kamienna
+1753,2025-01-14 05:59:51.050000,38,3,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1754,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1755,2025-01-14 05:58:47.167000,104,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1756,2025-01-14 05:55:22.843000,56,1,0,PR03A - Grabiszyn południe
+1757,2025-01-14 05:51:06.033000,44,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1758,2025-01-14 05:55:05.630000,76,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1759,2025-01-14 05:52:54.303000,1,0,0,PR11 - ul. Ślężna-Kamienna
+1760,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1761,2025-01-14 05:57:18.260000,77,1,0,PR06 - ul. Kosmonautów-Boguszowska
+1762,2025-01-14 05:56:39.217000,161,1,0,PR08 - ul. Opolska-Głubczycka
+1763,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1764,2025-01-14 06:17:34.060000,33,2,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1765,2025-01-14 06:15:52,34,1,0,PR03B - Grabiszyn północ
+1766,2025-01-14 06:17:07.523000,97,0,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1767,2025-01-14 06:19:55.300000,54,1,0,PR03A - Grabiszyn południe
+1768,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1769,2025-01-14 06:19:46.823000,75,2,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+1770,2025-01-14 06:19:24.823000,0,1,0,PR11 - ul. Ślężna-Kamienna
+1771,2025-01-14 06:17:38.933000,10,1,0,PR09 - ul. Opolska-Karwińska
+1772,2025-01-14 06:19:10.377000,70,2,0,PR06 - ul. Kosmonautów-Boguszowska
+1773,2025-01-14 06:17:14.590000,156,1,0,PR08 - ul. Opolska-Głubczycka
+1774,2025-01-14 06:10:28.890000,-291,0,0,PR15 - ul. Kamiennogórska
+1775,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1776,2025-01-14 06:39:45.363000,14,7,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1777,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1778,2025-01-14 06:35:29.937000,94,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1779,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1780,2025-01-14 06:38:41.920000,72,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1781,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1782,2025-01-14 06:38:14.327000,7,2,0,PR09 - ul. Opolska-Karwińska
+1783,2025-01-14 06:39:48.630000,63,4,0,PR06 - ul. Kosmonautów-Boguszowska
+1784,2025-01-14 06:35:51.487000,155,0,1,PR08 - ul. Opolska-Głubczycka
+1785,2025-01-14 06:31:25.990000,39,0,0,PR05 - ul. Bardzka-Świeradowska
+1786,2025-01-14 06:37:24.740000,-292,1,0,PR15 - ul. Kamiennogórska
+1787,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1788,2025-01-14 06:44:55.573000,11,3,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1789,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1790,2025-01-14 06:44:40.430000,90,4,1,PR01B - Psie Pole - Stacja PKP parking nr 3
+1791,2025-01-14 06:31:21.290000,52,0,0,PR03A - Grabiszyn południe
+1792,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1793,2025-01-14 06:44:42.697000,71,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1794,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1795,2025-01-14 06:38:14.327000,7,0,0,PR09 - ul. Opolska-Karwińska
+1796,2025-01-14 06:44:28.940000,59,4,0,PR06 - ul. Kosmonautów-Boguszowska
+1797,2025-01-14 06:35:51.487000,155,0,0,PR08 - ul. Opolska-Głubczycka
+1798,2025-01-14 06:41:55.313000,38,1,0,PR05 - ul. Bardzka-Świeradowska
+1799,2025-01-14 06:37:24.740000,-292,0,0,PR15 - ul. Kamiennogórska
+1800,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1801,2025-01-14 06:59:17.043000,-4,6,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1802,2025-01-14 06:15:52,34,0,0,PR03B - Grabiszyn północ
+1803,2025-01-14 06:59:39,92,1,4,PR01B - Psie Pole - Stacja PKP parking nr 3
+1804,2025-01-14 06:31:21.290000,52,0,0,PR03A - Grabiszyn południe
+1805,2025-01-14 06:13:39.790000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1806,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1807,2025-01-14 06:54:31.693000,6,0,0,PR09 - ul. Opolska-Karwińska
+1808,2025-01-14 06:51:59.797000,54,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1809,2025-01-14 06:58:52.460000,152,0,2,PR08 - ul. Opolska-Głubczycka
+1810,2025-01-14 06:37:24.740000,-292,0,0,PR15 - ul. Kamiennogórska
+1812,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1813,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1814,2025-01-14 04:13:53.567000,109,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1815,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1816,2025-01-14 04:11:50.643000,18,1,0,PR11 - ul. Ślężna-Kamienna
+1817,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1818,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1819,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1820,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1821,2025-01-14 04:13:53.567000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1822,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1823,2025-01-14 04:29:23.713000,17,0,0,PR11 - ul. Ślężna-Kamienna
+1824,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1825,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1826,2025-01-14 04:13:53.567000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1827,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1828,2025-01-14 04:29:23.713000,17,0,0,PR11 - ul. Ślężna-Kamienna
+1829,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1830,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1831,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1832,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1833,2025-01-14 04:13:53.567000,109,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1834,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1835,2025-01-14 04:29:23.713000,17,0,0,PR11 - ul. Ślężna-Kamienna
+1836,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1837,2025-01-14 04:44:33.023000,-290,1,0,PR15 - ul. Kamiennogórska
+1838,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1839,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1840,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1841,2025-01-14 05:23:52.487000,107,1,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1842,2025-01-14 05:19:49.887000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1843,2025-01-14 04:54:22.130000,79,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1844,2025-01-14 05:16:52.213000,11,0,0,PR11 - ul. Ślężna-Kamienna
+1845,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1846,2025-01-14 05:23:46.583000,82,2,0,PR06 - ul. Kosmonautów-Boguszowska
+1847,2025-01-14 04:50:25.170000,159,0,0,PR08 - ul. Opolska-Głubczycka
+1848,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1849,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1850,2025-01-14 05:54:04.460000,41,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1851,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1852,2025-01-14 05:44:58.587000,105,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1853,2025-01-14 05:51:06.033000,44,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1854,2025-01-14 05:44:12.127000,77,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1855,2025-01-14 05:52:54.303000,1,1,0,PR11 - ul. Ślężna-Kamienna
+1856,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1857,2025-01-14 05:47:27.710000,78,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1858,2025-01-14 05:47:36.223000,162,0,0,PR08 - ul. Opolska-Głubczycka
+1859,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1860,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1861,2025-01-14 07:04:10.473000,-8,3,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1862,2025-01-14 07:02:24.857000,33,1,0,PR03B - Grabiszyn północ
+1863,2025-01-14 07:04:34.393000,92,4,3,PR01B - Psie Pole - Stacja PKP parking nr 3
+1864,2025-01-14 07:00:13.487000,51,1,0,PR03A - Grabiszyn południe
+1865,2025-01-14 07:03:12.430000,41,1,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1866,2025-01-14 07:04:13.137000,64,2,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1867,2025-01-14 06:19:24.823000,0,0,0,PR11 - ul. Ślężna-Kamienna
+1868,2025-01-14 06:54:31.693000,6,0,0,PR09 - ul. Opolska-Karwińska
+1869,2025-01-14 07:01:39.660000,52,2,0,PR06 - ul. Kosmonautów-Boguszowska
+1870,2025-01-14 07:01:49.063000,149,2,0,PR08 - ul. Opolska-Głubczycka
+1871,2025-01-14 06:41:55.313000,38,0,0,PR05 - ul. Bardzka-Świeradowska
+1872,2025-01-14 07:04:57.217000,-293,1,0,PR15 - ul. Kamiennogórska
+1873,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1874,2025-01-14 07:23:15.423000,62,0,0,PR12 - Klecina - pętla MPK
+1875,2025-01-14 07:29:51.683000,-30,4,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1876,2025-01-14 07:25:39.043000,29,1,0,PR03B - Grabiszyn północ
+1877,2025-01-14 07:20:40.357000,98,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1878,2025-01-14 07:28:42.607000,47,1,0,PR03A - Grabiszyn południe
+1879,2025-01-14 07:13:08.607000,43,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1880,2025-01-14 07:24:12.397000,58,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1881,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+1882,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1883,2025-01-14 07:58:23.040000,-46,1,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1884,2025-01-14 07:57:32.877000,27,1,0,PR03B - Grabiszyn północ
+1885,2025-01-14 07:59:54.043000,101,3,11,PR01B - Psie Pole - Stacja PKP parking nr 3
+1886,2025-01-14 07:51:51.623000,41,0,0,PR03A - Grabiszyn południe
+1887,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1888,2025-01-14 07:55:01.487000,52,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1889,2025-01-14 07:16:44.740000,-1,0,0,PR11 - ul. Ślężna-Kamienna
+1890,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1891,2025-01-14 07:54:52.093000,33,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1892,2025-01-14 07:49:28.730000,146,0,0,PR08 - ul. Opolska-Głubczycka
+1893,2025-01-14 07:36:48.823000,36,0,0,PR05 - ul. Bardzka-Świeradowska
+1894,2025-01-14 07:28:56.410000,-293,0,0,PR15 - ul. Kamiennogórska
+1895,2025-01-14 07:45:04.107000,22,0,0,PR17 -  ul. Osobowicka
+1896,2025-01-14 09:00:48.800000,54,0,0,PR12 - Klecina - pętla MPK
+1897,2025-01-14 09:14:35.003000,-47,0,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1898,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1899,2025-01-14 09:08:22.430000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1900,2025-01-14 09:06:21.440000,28,0,0,PR03A - Grabiszyn południe
+1901,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1902,2025-01-14 08:58:10.797000,41,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1903,2025-01-14 09:12:40.033000,-6,2,0,PR11 - ul. Ślężna-Kamienna
+1904,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1905,2025-01-14 08:51:56.130000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1906,2025-01-14 09:13:36.147000,136,0,1,PR08 - ul. Opolska-Głubczycka
+1907,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1908,2025-01-14 09:12:32.960000,-294,1,0,PR15 - ul. Kamiennogórska
+1909,2025-01-14 08:27:26.373000,23,0,0,PR17 -  ul. Osobowicka
+1910,2025-01-14 09:00:48.800000,54,0,0,PR12 - Klecina - pętla MPK
+1911,2025-01-14 09:19:38.073000,-48,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1912,2025-01-14 08:36:51.610000,26,0,0,PR03B - Grabiszyn północ
+1913,2025-01-14 09:08:22.430000,107,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1914,2025-01-14 09:18:11.387000,27,1,0,PR03A - Grabiszyn południe
+1915,2025-01-14 07:54:39.007000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1916,2025-01-14 08:58:10.797000,41,0,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1917,2025-01-14 09:12:40.033000,-6,0,0,PR11 - ul. Ślężna-Kamienna
+1918,2025-01-14 07:28:35.163000,4,0,0,PR09 - ul. Opolska-Karwińska
+1919,2025-01-14 08:51:56.130000,24,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1920,2025-01-14 09:19:58.203000,133,2,0,PR08 - ul. Opolska-Głubczycka
+1921,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1922,2025-01-14 09:12:32.960000,-294,0,0,PR15 - ul. Kamiennogórska
+1923,2025-01-14 10:58:45.497000,48,0,0,PR12 - Klecina - pętla MPK
+1924,2025-01-14 11:00:05.657000,-50,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1925,2025-01-14 10:25:41.350000,25,0,0,PR03B - Grabiszyn północ
+1926,2025-01-14 10:57:14.507000,108,0,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1927,2025-01-14 10:57:41.780000,21,0,0,PR03A - Grabiszyn południe
+1928,2025-01-14 10:50:55.173000,42,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1929,2025-01-14 11:00:18.977000,37,1,0,PR04 - ul. Snycerska-Majchra (Leśnica)
+1930,2025-01-14 10:59:22.140000,-11,0,0,PR11 - ul. Ślężna-Kamienna
+1931,2025-01-14 10:27:40.287000,2,0,0,PR09 - ul. Opolska-Karwińska
+1932,2025-01-14 10:56:32.587000,20,0,0,PR06 - ul. Kosmonautów-Boguszowska
+1933,2025-01-14 11:02:33.263000,128,0,1,PR08 - ul. Opolska-Głubczycka
+1934,2025-01-14 09:05:07.813000,34,0,0,PR05 - ul. Bardzka-Świeradowska
+1935,2025-01-14 09:26:25.370000,-294,0,0,PR15 - ul. Kamiennogórska
+1936,2025-01-14 09:58:01.300000,22,0,0,PR17 -  ul. Osobowicka
+1937,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1938,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1939,2025-01-14 02:23:17.753000,35,0,0,PR03B - Grabiszyn północ
+1940,2025-01-14 04:46:46.730000,107,2,0,PR01B - Psie Pole - Stacja PKP parking nr 3
+1941,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1942,2025-01-14 04:29:23.713000,17,0,0,PR11 - ul. Ślężna-Kamienna
+1943,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1944,2025-01-14 04:46:26.800000,160,1,0,PR08 - ul. Opolska-Głubczycka
+1945,2025-01-14 04:44:33.023000,-290,0,0,PR15 - ul. Kamiennogórska
+1946,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1947,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1948,2025-01-14 00:18:33.920000,46,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1949,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+1950,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1951,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1952,2025-01-14 01:20:06.407000,41,1,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1953,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1954,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1955,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1956,2025-01-14 01:20:06.407000,41,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1957,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1958,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+1959,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1960,2025-01-14 01:20:06.407000,41,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1961,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1962,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+1963,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1964,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1965,2025-01-14 01:50:31.757000,42,0,1,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1966,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1967,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+1968,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1969,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1970,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1971,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+1972,2025-01-14 00:10:36.647000,23,0,0,PR11 - ul. Ślężna-Kamienna
+1973,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1974,2025-01-14 00:40:31.120000,23,0,0,PR17 -  ul. Osobowicka
+1975,2025-01-14 00:08:32.137000,11,0,0,PR09 - ul. Opolska-Karwińska
+1976,2025-01-14 01:50:31.757000,42,0,0,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+1977,2025-01-14 01:19:34.377000,45,0,0,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)

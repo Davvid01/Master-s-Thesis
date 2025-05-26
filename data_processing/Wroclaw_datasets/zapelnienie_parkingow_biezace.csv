@@ -1,0 +1,25 @@
+_id,Czas_Rejestracji,Liczba_Wolnych_Miejsc,Liczba_Poj_Wjezdzajacych,Liczba_Poj_Wyjezdzajacych,Nazwa
+1,2025-01-14 15:05:08.477000,4,0,1,PR11 - ul. Ślężna-Kamienna
+2,2025-01-14 13:59:02.940000,33,0,1,PR05 - ul. Bardzka-Świeradowska
+3,2025-01-14 15:10:00.110000,29,0,1,PR06 - ul. Kosmonautów-Boguszowska
+4,2025-01-14 14:22:46.370000,0,0,1,PR09 - ul. Opolska-Karwińska
+5,2825-01-05 08:38:01.220000,45,1,0,PR03A - Grabiszyn południe
+6,2025-01-14 14:57:41.877000,21,0,1,PR17 -  ul. Osobowicka
+7,2025-01-14 14:59:10.870000,-293,0,1,PR15 - ul. Kamiennogórska
+8,2025-01-14 15:08:02.410000,28,0,1,PR03B - Grabiszyn północ
+9,2025-01-14 15:14:42.987000,110,1,7,PR01B - Psie Pole - Stacja PKP parking nr 3
+10,2024-12-04 15:06:34.683000,10,0,33,PR18 - Wojnów
+11,2022-07-16 01:00:29,600,0,0,Narodowe Forum Muzyki
+12,2014-03-17 09:44:02.607000,0,0,0,Galeria Dominikańska
+13,2023-04-06 09:23:06.477000,53,1060,1050,ul. św. Antoniego
+14,2022-08-01 12:15:00.013000,198,6,6,Nowy Targ
+15,2023-04-03 08:22:12.153000,128,3,3,Renoma
+16,2014-03-17 09:44:17.227000,0,0,0,ul. Rzeźnicza
+17,2014-03-17 09:44:22.050000,0,0,0,Szewska Centrum
+18,2022-08-01 12:15:02.060000,325,11,1,Parking Hala Stulecia
+19,2025-01-14 14:56:46.907000,42,0,1,PR02 - ul. Bystrzycka-Idzikowskiego (Kuźniki)
+20,4823-01-15 18:43:01.660000,-98,0,1,PR10 - ul. Grabiszyńska (Oporów)
+21,2025-01-14 15:12:58.627000,44,0,1,PR04 - ul. Snycerska-Majchra (Leśnica)
+22,2025-01-14 15:08:32.627000,130,0,1,PR08 - ul. Opolska-Głubczycka
+23,2025-01-14 15:13:27.317000,17,1,2,PR07 - ul. Kosmonautów-Fieldorfa (Szpital)
+24,2025-01-14 15:12:13.067000,46,0,1,PR12 - Klecina - pętla MPK
