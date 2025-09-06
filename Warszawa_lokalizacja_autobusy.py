@@ -30,7 +30,7 @@ inspector = inspect(engine)
 print(inspector.get_table_names())
 
 
-url=f"https://api.um.warszawa.pl/api/action/busestrams_get/?resource_id=f2e5503e-927d-4ad3-9500-4ab9e55deb59&apikey={api_key}&type=2"
+url=f"https://api.um.warszawa.pl/api/action/busestrams_get/?resource_id=f2e5503e-927d-4ad3-9500-4ab9e55deb59&apikey={api_key}&type=1"
 response=requests.get(url)
 data=response.json()
 #print(data)
@@ -40,5 +40,5 @@ structuring=data['result']
 df=pd.DataFrame(structuring)
 #print(df)
 df.info()
-
+print(df)
 df.to_sql("BussesTrams", con=engine, if_exists="replace", index=False)

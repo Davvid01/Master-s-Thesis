@@ -20,6 +20,7 @@ def main():
     df_lokalizacja_pojazdow=df_lokalizacja_pojazdow[["_id","Nr_Boczny","Nr_Rej","Brygada","Nazwa_Linii","Ostatnia_Pozycja_Szerokosc","Ostatnia_Pozycja_Dlugosc","Data_Aktualizacji"]]
     # 3. Zapisz do SQL
     write_to_sql(df, engine, "WroclawCennikWrm")
+    write_to_sql(df_lokalizacja_pojazdow, engine, "lokalizacja_pojazdow_wroc")
 
     print("Dane z Wrocławia zostały zapisane do bazy danych.")
     print(df_lokalizacja_pojazdow.columns.values)
